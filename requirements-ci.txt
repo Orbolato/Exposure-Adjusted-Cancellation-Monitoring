@@ -1,0 +1,4 @@
+# Packages needed by the data-free checks run in continuous integration.
+numpy==2.0.1
+pandas==2.3.3
+pytest==8.4.2

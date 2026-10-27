@@ -1,0 +1,9 @@
+representation,period,records,silhouette_k3
+linear_hour,Overall,439148,0.4268151199964177
+linear_hour,Pre-pandemic,349600,0.4368407489671149
+linear_hour,Pandemic,49897,0.4177214524613455
+linear_hour,Post-pandemic,39651,0.41040312926676253
+circular_sine_cosine,Overall,439148,0.3036348629767402
+circular_sine_cosine,Pre-pandemic,349600,0.31051709490772267
+circular_sine_cosine,Pandemic,49897,0.3067630770289978
+circular_sine_cosine,Post-pandemic,39651,0.30713844162077264

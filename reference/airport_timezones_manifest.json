@@ -1,0 +1,11 @@
+{
+ "coordinates_source": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+ "retrieved": "2026-09-23",
+ "sha256": "afee98cc969c6564a76807bee54859e0727b7b4e68421c0ab05967cd0c5a76ea",
+ "zone_lookup": "coordinates checked against state jurisdiction and DECEA ROTAER; IANA historical rules",
+ "timezonefinder_version": "9.0.0",
+ "rotaer_source": "https://aisweb.decea.mil.br/downloads/rotaer/rotaer_completo.pdf",
+ "rotaer_retrieved": "2026-09-23",
+ "rotaer_sha256": "f7ca67d7b82a18af4955c6cca7f9658c82170b30aaa3a7d7a3ddf2f8fcd090f8",
+ "aerodromes": 6409
+}

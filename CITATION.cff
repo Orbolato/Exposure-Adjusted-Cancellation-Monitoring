@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article below."
+title: "Code and archived results for: Exposure-adjusted monitoring of flight cancellations for service-reliability governance: A Brazilian case study with a cross-country replication"
+type: software
+repository-code: "https://github.com/Orbolato/Exposure-Adjusted-Cancellation-Monitoring"
+url: "https://orbolato.github.io/publications/flight-cancellation-monitoring/"
+date-released: 2026-10-27
+keywords:
+  - flight cancellations
+  - service reliability
+  - passenger rights
+  - regulatory oversight
+  - exposure normalization
+  - registry comparability
+authors:
+  - family-names: Carvalho
+    given-names: Lucas Orbolato
+    affiliation: Aeronautics Institute of Technology (ITA)
+    orcid: "https://orcid.org/0000-0002-8402-5832"
+  - family-names: Almeida
+    given-names: Davi Sombra
+    affiliation: Aeronautics Institute of Technology (ITA)
+    orcid: "https://orcid.org/0009-0006-2772-3884"
+  - family-names: Pamplona
+    given-names: Daniel Alberto
+    affiliation: Aeronautics Institute of Technology (ITA)
+    orcid: "https://orcid.org/0000-0002-2800-7074"
+preferred-citation:
+  type: article
+  title: "Exposure-adjusted monitoring of flight cancellations for service-reliability governance: A Brazilian case study with a cross-country replication"
+  journal: "Case Studies on Transport Policy"
+  volume: "26"
+  year: 2026
+  month: 12
+  doi: "10.1016/j.cstp.2026.102001"
+  notes: "Article 102001. Manuscript CSTP-D-26-01481."
+  authors:
+    - family-names: Carvalho
+      given-names: Lucas Orbolato
+    - family-names: Almeida
+      given-names: Davi Sombra
+    - family-names: Pamplona
+      given-names: Daniel Alberto

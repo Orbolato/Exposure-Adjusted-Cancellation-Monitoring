@@ -1,0 +1,828 @@
+[
+ {
+  "file": "2015/VRA_20151.csv",
+  "bytes": 14233266,
+  "sha256": "4858071e2d8a5f3ecc23cc09944c12d110d1871fd4e3d995f6cfaa0fadb729b0",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2015/01%20-%20Janeiro/VRA_20151.csv"
+ },
+ {
+  "file": "2015/VRA_201510.csv",
+  "bytes": 11674277,
+  "sha256": "5ac6115d8fec917f4abf230eaf1e659a1fbbdc8004808116195e6102f551abb9",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2015/10%20-%20Outubro/VRA_201510.csv"
+ },
+ {
+  "file": "2015/VRA_201511.csv",
+  "bytes": 11217778,
+  "sha256": "d2d51e8b9dc8fa3358b5318176268a860dfea60788a110179ba8b0e6cef9e725",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2015/11%20-%20Novembro/VRA_201511.csv"
+ },
+ {
+  "file": "2015/VRA_201512.csv",
+  "bytes": 11961893,
+  "sha256": "569ff8073870587b04f1218b7dea81677a2e4726193607f692fc1afc657d26cd",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2015/12%20-%20Dezembro/VRA_201512.csv"
+ },
+ {
+  "file": "2015/VRA_20152.csv",
+  "bytes": 12644259,
+  "sha256": "bb4de4a2ae3d4e8d7f5d91f4837209e06715faf5a88d30580affbd9fd59a2ea5",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2015/02%20-%20Fevereiro/VRA_20152.csv"
+ },
+ {
+  "file": "2015/VRA_20153.csv",
+  "bytes": 13792155,
+  "sha256": "667ccb249f152416daacba1b703b4cf55370a9004ee5ef386ad80d2b4fb5a810",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2015/03%20-%20Mar%C3%A7o/VRA_20153.csv"
+ },
+ {
+  "file": "2015/VRA_20154.csv",
+  "bytes": 13235308,
+  "sha256": "ce79e749376f5be44f4270df3cbc23e217f5f1cba2a9e74e774426cb85cd7734",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2015/04%20-%20Abril/VRA_20154.csv"
+ },
+ {
+  "file": "2015/VRA_20155.csv",
+  "bytes": 13447725,
+  "sha256": "6977f2d6d2f48a0bdf3fa0eb4f44211b8a94ef04153b8321a2b8a2a580771eef",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2015/05%20-%20Maio/VRA_20155.csv"
+ },
+ {
+  "file": "2015/VRA_20156.csv",
+  "bytes": 13088771,
+  "sha256": "b8ffe1f39364321873c0d23d2fda0e069cae7f247dd1740da4b33c110b227702",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2015/06%20-%20Junho/VRA_20156.csv"
+ },
+ {
+  "file": "2015/VRA_20157.csv",
+  "bytes": 13934348,
+  "sha256": "e083fb2359996f1ac8b97c478746d9943a9617956a319200739c3265c4f6c462",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2015/07%20-%20Julho/VRA_20157.csv"
+ },
+ {
+  "file": "2015/VRA_20158.csv",
+  "bytes": 13431777,
+  "sha256": "494f0e617f88487c47894989325af3a2bcf031c5cc97eba767aefc5eb6cf8d47",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2015/08%20-%20Agosto/VRA_20158.csv"
+ },
+ {
+  "file": "2015/VRA_20159.csv",
+  "bytes": 13257057,
+  "sha256": "62e951f8773c3a39ca1ebb12930712a5b9f9345f9ca942ff53ccc516e23eb0bf",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2015/09%20-%20Setembro/VRA_20159.csv"
+ },
+ {
+  "file": "2016/VRA_20161.csv",
+  "bytes": 12679079,
+  "sha256": "4108b0978ec3ab9273ebcda6f15fe2b1015d01ec0d858d317593cef6a7640cc7",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2016/01%20-%20Janeiro/VRA_20161.csv"
+ },
+ {
+  "file": "2016/VRA_201610.csv",
+  "bytes": 9333905,
+  "sha256": "6027b5315ea47e554c80674a9f780baf151a070ac873c7a0f9b3492838e8d35e",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2016/10%20-%20Outubro/VRA_201610.csv"
+ },
+ {
+  "file": "2016/VRA_201611.csv",
+  "bytes": 9374569,
+  "sha256": "751a51c5ff9c509af7ab8c77300ec69d9a2ff2551e4843e401eb5074eb354e41",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2016/11%20-%20Novembro/VRA_201611.csv"
+ },
+ {
+  "file": "2016/VRA_201612.csv",
+  "bytes": 10215595,
+  "sha256": "6fc14895603533bd408de3ff6ce0dfea2d69aa717a695acead320adcb47cbfb9",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2016/12%20-%20Dezembro/VRA_201612.csv"
+ },
+ {
+  "file": "2016/VRA_20162.csv",
+  "bytes": 12624308,
+  "sha256": "c165bf1d077f9c4c79b271a418f7ab1d85b7231b734eae8769db849d04271b68",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2016/02%20-%20Fevereiro/VRA_20162.csv"
+ },
+ {
+  "file": "2016/VRA_20163.csv",
+  "bytes": 11163701,
+  "sha256": "5ac647b000ae49922c86984e360b215b49d265bfe67b0a1ad26775f24eaa5b15",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2016/03%20-%20Mar%C3%A7o/VRA_20163.csv"
+ },
+ {
+  "file": "2016/VRA_20164.csv",
+  "bytes": 10460754,
+  "sha256": "26c21fdc0c096a0ce07ca12deda7d700458897ddeb291d5ad4b5f9e6b54da3db",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2016/04%20-%20Abril/VRA_20164.csv"
+ },
+ {
+  "file": "2016/VRA_20165.csv",
+  "bytes": 9787544,
+  "sha256": "5b3e40f8ecaa2dc60e029a1d174b73b63247ac4988f25f5e01bf0fa702f56753",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2016/05%20-%20Maio/VRA_20165.csv"
+ },
+ {
+  "file": "2016/VRA_20166.csv",
+  "bytes": 9466175,
+  "sha256": "94de87377f43adc061baac96e87d176f0f1f75d8e0fb2274c40d7ea2d49b5155",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2016/06%20-%20Junho/VRA_20166.csv"
+ },
+ {
+  "file": "2016/VRA_20167.csv",
+  "bytes": 9859948,
+  "sha256": "8ffe6042855f2f78c7dbf0a8bb2274f9389968439abd9c5685b385f691277c02",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2016/07%20-%20Julho/VRA_20167.csv"
+ },
+ {
+  "file": "2016/VRA_20168.csv",
+  "bytes": 9732026,
+  "sha256": "e0cae8554ffdc8cbbd8b852b57e8014397f04bf6f386b467c78d8f47e58470d5",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2016/08%20-%20Agosto/VRA_20168.csv"
+ },
+ {
+  "file": "2016/VRA_20169.csv",
+  "bytes": 9244690,
+  "sha256": "36a50afd9c3178a7e06bdcaa3b4d42a445dab12c73f759e717df035ec0f7e732",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2016/09%20-%20Setembro/VRA_20169.csv"
+ },
+ {
+  "file": "2017/VRA_20171.csv",
+  "bytes": 10563687,
+  "sha256": "224cf26de2c4167a69a6cf0aa6811f8def1a55eeba0b16edec5741b9f145ff0b",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2017/01%20-%20Janeiro/VRA_20171.csv"
+ },
+ {
+  "file": "2017/VRA_201710.csv",
+  "bytes": 9987861,
+  "sha256": "d2a572adab042d411fb79b62a1e4dae454a5c64efc06fadec1de84ef2c24e533",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2017/10%20-%20Outubro/VRA_201710.csv"
+ },
+ {
+  "file": "2017/VRA_201711.csv",
+  "bytes": 9816732,
+  "sha256": "3bd7d26ff4f9b19830046870a2d4baad0a523399e7b5c624976c8c17e45d250b",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2017/11%20-%20Novembro/VRA_201711.csv"
+ },
+ {
+  "file": "2017/VRA_201712.csv",
+  "bytes": 10694901,
+  "sha256": "c80463a9a5a24c022c8a9302c7dad8d2244128d9c1f731c53e5bff7cfb976dda",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2017/12%20-%20Dezembro/VRA_201712.csv"
+ },
+ {
+  "file": "2017/VRA_20172.csv",
+  "bytes": 9084075,
+  "sha256": "bd6e35d64db9c726414907b833ec5608243423246f57a939a80582c83491f3b0",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2017/02%20-%20Fevereiro/VRA_20172.csv"
+ },
+ {
+  "file": "2017/VRA_20173.csv",
+  "bytes": 9837172,
+  "sha256": "03f90f40141db3fbd610295110758267d0f8b78c75a152c310509f9b20298f1a",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2017/03%20-%20Mar%C3%A7o/VRA_20173.csv"
+ },
+ {
+  "file": "2017/VRA_20174.csv",
+  "bytes": 9235937,
+  "sha256": "52e63c3ac27a8b528e3607d76b9af8d6e89a8602ff94955a25979ff63b771901",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2017/04%20-%20Abril/VRA_20174.csv"
+ },
+ {
+  "file": "2017/VRA_20175.csv",
+  "bytes": 9688177,
+  "sha256": "e80988650a5e46599255886961e0d6f314c70d1ad23be8c533b2530b2f32a9b8",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2017/05%20-%20Maio/VRA_20175.csv"
+ },
+ {
+  "file": "2017/VRA_20176.csv",
+  "bytes": 9336015,
+  "sha256": "eaa56d1768ee070f312e9452d66f2232f3a10fe8c72c486372a6282f1a100d59",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2017/06%20-%20Junho/VRA_20176.csv"
+ },
+ {
+  "file": "2017/VRA_20177.csv",
+  "bytes": 10338704,
+  "sha256": "6ab986b1024ba630ac3ac47b1a3d929b3b362483d358287cdca0d6327ae7674a",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2017/07%20-%20Julho/VRA_20177.csv"
+ },
+ {
+  "file": "2017/VRA_20178.csv",
+  "bytes": 9956915,
+  "sha256": "c2899b4ce3d25304e1378a40a463dda8635a6d377ccbb1d373b6f8fbda08b0de",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2017/08%20-%20Agosto/VRA_20178.csv"
+ },
+ {
+  "file": "2017/VRA_20179.csv",
+  "bytes": 9553564,
+  "sha256": "c01211640c31c9b52c52ea825ad98cd0136e01c4a1743e37e68c73e3ae185a71",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2017/09%20-%20Setembro/VRA_20179.csv"
+ },
+ {
+  "file": "2018/VRA_20181.csv",
+  "bytes": 11126471,
+  "sha256": "e19d2c34867805cdc945b112dc48f6fc1822b81d8794bd020f426392d6466007",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2018/01%20-%20Janeiro/VRA_20181.csv"
+ },
+ {
+  "file": "2018/VRA_201810.csv",
+  "bytes": 10816623,
+  "sha256": "ebe59d74a8acf863179737bb85e9293fd2f8c9fa1a8b8570e05477d9cecf3ff1",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2018/10%20-%20Outubro/VRA_201810.csv"
+ },
+ {
+  "file": "2018/VRA_201811.csv",
+  "bytes": 10337568,
+  "sha256": "2581cdebbaf46cf66ee5b4898b919946f7761b75eb2ac631758e512dee73f9cc",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2018/11%20-%20Novembro/VRA_201811.csv"
+ },
+ {
+  "file": "2018/VRA_201812.csv",
+  "bytes": 11314025,
+  "sha256": "a3c1300b7340f32f22098cb7f853575d6c31b408abbaea6eaa0494114b787278",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2018/12%20-%20Dezembro/VRA_201812.csv"
+ },
+ {
+  "file": "2018/VRA_20182.csv",
+  "bytes": 9982986,
+  "sha256": "9104bd12e773a8a51a80196b4e7be8ec543c199b9586b1dee8331170d5a1f872",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2018/02%20-%20Fevereiro/VRA_20182.csv"
+ },
+ {
+  "file": "2018/VRA_20183.csv",
+  "bytes": 10859754,
+  "sha256": "3a375cd5aaaf1644840582145182df1832804dd4ef8ab180c6ed6d2b5a552714",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2018/03%20-%20Mar%C3%A7o/VRA_20183.csv"
+ },
+ {
+  "file": "2018/VRA_20184.csv",
+  "bytes": 10362227,
+  "sha256": "aa21f6b2ce68644fc22b83937949f42a94fe2d2354a18d5212a01e78e9a4b3b9",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2018/04%20-%20Abril/VRA_20184.csv"
+ },
+ {
+  "file": "2018/VRA_20185.csv",
+  "bytes": 10808935,
+  "sha256": "6574715939b81f6d8074ec4d47662b5c8b7b1930edce5ef1b0c91fa50a76d67a",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2018/05%20-%20Maio/VRA_20185.csv"
+ },
+ {
+  "file": "2018/VRA_20186.csv",
+  "bytes": 10375399,
+  "sha256": "5b84eef7f9977c6d3b95f0b86b4c249b86d7a916c3273efc68cb08f306a7894a",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2018/06%20-%20Junho/VRA_20186.csv"
+ },
+ {
+  "file": "2018/VRA_20187.csv",
+  "bytes": 11651442,
+  "sha256": "8b9efea76ec15b22304211ef9983fd231aaf68abd90681d0ac8d66308f80125e",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2018/07%20-%20Julho/VRA_20187.csv"
+ },
+ {
+  "file": "2018/VRA_20188.csv",
+  "bytes": 10921527,
+  "sha256": "ac319dcab2a3513ede70022104d8c4184e67fb107b955a6f4e9b00b24d39ca47",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2018/08%20-%20Agosto/VRA_20188.csv"
+ },
+ {
+  "file": "2018/VRA_20189.csv",
+  "bytes": 10464426,
+  "sha256": "24e0c4571b5fcfad9b6dd7c1ad58ed9c71911d52908cff90eecc20a2a7c95ba7",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2018/09%20-%20Setembro/VRA_20189.csv"
+ },
+ {
+  "file": "2019/VRA_20191.csv",
+  "bytes": 12965208,
+  "sha256": "fd7a1900fdad833c67f9b73e954e2a340d1ce8e05dfbe293f3db08aca37b6c96",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2019/01%20-%20Janeiro/VRA_20191.csv"
+ },
+ {
+  "file": "2019/VRA_201910.csv",
+  "bytes": 11911453,
+  "sha256": "f6225c70ac6455650e55b7371dd1f08b039e1012a03654cf4200f32326ab2aab",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2019/10%20-%20Outubro/VRA_201910.csv"
+ },
+ {
+  "file": "2019/VRA_201911.csv",
+  "bytes": 11440496,
+  "sha256": "a24883675c53d10e559d4ce6f487e20fd2339f06e245ca5bab9dae131a022277",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2019/11%20-%20Novembro/VRA_201911.csv"
+ },
+ {
+  "file": "2019/VRA_201912.csv",
+  "bytes": 12455531,
+  "sha256": "8b1efc04c760897cc1415556cb0b109cd42cdc3f80894cff4689ed4fa08a49ca",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2019/12%20-%20Dezembro/VRA_201912.csv"
+ },
+ {
+  "file": "2019/VRA_20192.csv",
+  "bytes": 11217924,
+  "sha256": "8a64c589ea6168e31898c1dca2b7e1852c8a917b5af53bcdaf2bd61b6cd2a7ff",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2019/02%20-%20Fevereiro/VRA_20192.csv"
+ },
+ {
+  "file": "2019/VRA_20193.csv",
+  "bytes": 11722804,
+  "sha256": "216d924b03b018e23b4a54fa50a2304a2c8841821256a0f5ca19c6894ebb8f0b",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2019/03%20-%20Mar%C3%A7o/VRA_20193.csv"
+ },
+ {
+  "file": "2019/VRA_20194.csv",
+  "bytes": 10912568,
+  "sha256": "b82747589f7b74aaaef6c47bb628c60b71a7288c218d73c77e160b629ad62f01",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2019/04%20-%20Abril/VRA_20194.csv"
+ },
+ {
+  "file": "2019/VRA_20195.csv",
+  "bytes": 10817275,
+  "sha256": "88021c02f07634538eedd514d2a31c8a4798784101af618e25289f2980c4b3aa",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2019/05%20-%20Maio/VRA_20195.csv"
+ },
+ {
+  "file": "2019/VRA_20196.csv",
+  "bytes": 10475239,
+  "sha256": "a2aaeb25a97ac6a195dc33db27df625f994eafcc0311fa36d40fdd0ed88b2cb9",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2019/06%20-%20Junho/VRA_20196.csv"
+ },
+ {
+  "file": "2019/VRA_20197.csv",
+  "bytes": 12091844,
+  "sha256": "775db842a384302aa7fc6325e68d020db100825fead430a2ad64d892c19d6531",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2019/07%20-%20Julho/VRA_20197.csv"
+ },
+ {
+  "file": "2019/VRA_20198.csv",
+  "bytes": 11393953,
+  "sha256": "a3ccea9fa11c47e0efdf8db3ea6dccc02dac1d324781611714eb2c8af83d2f15",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2019/08%20-%20Agosto/VRA_20198.csv"
+ },
+ {
+  "file": "2019/VRA_20199.csv",
+  "bytes": 11358467,
+  "sha256": "738dc13136a4a0426991c67cb50128ff7f548d8ef683d4b3a2e3c5c7a57faf85",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2019/09%20-%20Setembro/VRA_20199.csv"
+ },
+ {
+  "file": "2020/VRA_20201.csv",
+  "bytes": 13058503,
+  "sha256": "4b1ede67f93981c8b344d2a7a8847300db86065f240da29d07ae9801d73d3671",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2020/01%20-%20Janeiro/VRA_20201.csv"
+ },
+ {
+  "file": "2020/VRA_202010.csv",
+  "bytes": 5698260,
+  "sha256": "4b9cea10b44a89274d2cc597d4a991db07c5b8a23b7719ae67bfeab3fc8eb06f",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2020/10%20-%20Outubro/VRA_202010.csv"
+ },
+ {
+  "file": "2020/VRA_202011.csv",
+  "bytes": 6403961,
+  "sha256": "81be23f1137401928b479dc89b3d02bf2d2c2446ec994302df50d7a89bd22143",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2020/11%20-%20Novembro/VRA_202011.csv"
+ },
+ {
+  "file": "2020/VRA_202012.csv",
+  "bytes": 7640515,
+  "sha256": "b4e6918a59a57afe8ffc329899f364359ca67f5cb312a4c5668b793ef9402522",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2020/12%20-%20Dezembro/VRA_202012.csv"
+ },
+ {
+  "file": "2020/VRA_20202.csv",
+  "bytes": 87940601,
+  "sha256": "83d9369cb29bfcc755cbe01542187f36d2c3011d9b4e5911df719cd3114f54b0",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2020/02%20-%20Fevereiro/VRA_20202.csv"
+ },
+ {
+  "file": "2020/VRA_20203.csv",
+  "bytes": 70125249,
+  "sha256": "520f51f43736cac0dc3935e439b99478651580959d97af232373b4d66f722bc2",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2020/03%20-%20Mar%C3%A7o/VRA_20203.csv"
+ },
+ {
+  "file": "2020/VRA_20204.csv",
+  "bytes": 1038289,
+  "sha256": "247e52aa86b0bf44ece7b326a30727fee386d1839e07935dc2410d35c04c1189",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2020/04%20-%20Abril/VRA_20204.csv"
+ },
+ {
+  "file": "2020/VRA_20205.csv",
+  "bytes": 1308998,
+  "sha256": "cb65cfd4dd53fab5f13dfdd62dd7d77e0bc35a1d9be1599c4e90a041bda12a33",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2020/05%20-%20Maio/VRA_20205.csv"
+ },
+ {
+  "file": "2020/VRA_20206.csv",
+  "bytes": 1773895,
+  "sha256": "d7df99ba4696e237bb0fa8003fddda2c86e15c5844870b616c8da82fcfaef802",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2020/06%20-%20Junho/VRA_20206.csv"
+ },
+ {
+  "file": "2020/VRA_20207.csv",
+  "bytes": 2768184,
+  "sha256": "a1e822d4b67f6a7dadef41191ba303765ecf58bd632316c37c0fa9b94abe39d6",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2020/07%20-%20Julho/VRA_20207.csv"
+ },
+ {
+  "file": "2020/VRA_20208.csv",
+  "bytes": 3472623,
+  "sha256": "48f1c4ccae116700130ac48306021dfa6db33d5e1804a6128d714a2754237829",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2020/08%20-%20Agosto/VRA_20208.csv"
+ },
+ {
+  "file": "2020/VRA_20209.csv",
+  "bytes": 4310004,
+  "sha256": "c1b754773276f6b9e4b6db99e5a0cbaba3701d1aa8e271d6fe14fd4c82e14a2f",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2020/09%20-%20Setembro/VRA_20209.csv"
+ },
+ {
+  "file": "2021/VRA_20211.csv",
+  "bytes": 8448970,
+  "sha256": "a062d09eedacdf6779b97254ca50440f851e5a61bdf782d437522d345748028d",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2021/01%20-%20Janeiro/VRA_20211.csv"
+ },
+ {
+  "file": "2021/VRA_202110.csv",
+  "bytes": 8594027,
+  "sha256": "c3f33d704b9240d31166c22c3b6c3230b098efa23b5aca44a397ede091ef3b59",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2021/10%20-%20Outubro/VRA_202110.csv"
+ },
+ {
+  "file": "2021/VRA_202111.csv",
+  "bytes": 9302604,
+  "sha256": "75b4ecc66c99504200237eb0f89f732335c1c87915f2a32252d50ef2fc9d804c",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2021/11%20-%20Novembro/VRA_202111.csv"
+ },
+ {
+  "file": "2021/VRA_202112.csv",
+  "bytes": 10400062,
+  "sha256": "7d65d673e840a75dce1bb6fc64850847e5511853e9392f435428a6fba3ce5b5f",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2021/12%20-%20Dezembro/VRA_202112.csv"
+ },
+ {
+  "file": "2021/VRA_20212.csv",
+  "bytes": 6308601,
+  "sha256": "3c85604e44655803e0b7c384a293ce5fe511fc542f4345ef68c05304e128926c",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2021/02%20-%20Fevereiro/VRA_20212.csv"
+ },
+ {
+  "file": "2021/VRA_20213.csv",
+  "bytes": 5725094,
+  "sha256": "a1b41715a3ad0de50ef8fe9ee7da2db936d7d6e5af0ba43a882af781260d0d8d",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2021/03%20-%20Mar%C3%A7o/VRA_20213.csv"
+ },
+ {
+  "file": "2021/VRA_20214.csv",
+  "bytes": 4215432,
+  "sha256": "3102239b0b19a46787e558a3d8e8dbd6069174cba6efee72cc81d10c8f522919",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2021/04%20-%20Abril/VRA_20214.csv"
+ },
+ {
+  "file": "2021/VRA_20215.csv",
+  "bytes": 5215340,
+  "sha256": "7bee88259782e3ad00820fe9e084f2d9153bb63b3ab57288fc7e47b8ed92a02a",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2021/05%20-%20Maio/VRA_20215.csv"
+ },
+ {
+  "file": "2021/VRA_20216.csv",
+  "bytes": 5953169,
+  "sha256": "14217d23f96f1af04da4711607d6b036dd55a0318db13813282b8ac87f752cb3",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2021/06%20-%20Junho/VRA_20216.csv"
+ },
+ {
+  "file": "2021/VRA_20217.csv",
+  "bytes": 7701361,
+  "sha256": "09dc7eee7fcbc1a40579a2bfd575b465d000c9b56680e21def347f49372b7f86",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2021/07%20-%20Julho/VRA_20217.csv"
+ },
+ {
+  "file": "2021/VRA_20218.csv",
+  "bytes": 7893526,
+  "sha256": "728061c4bbfb7196e613d3c5156ca9cb70805666b866d33c0cfe8fa4a03ba6a8",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2021/08%20-%20Agosto/VRA_20218.csv"
+ },
+ {
+  "file": "2021/VRA_20219.csv",
+  "bytes": 8122790,
+  "sha256": "34f4834b35c23c023d676611f45139923383ffa936253d97e539eab3fbbb1567",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2021/09%20-%20Setembro/VRA_20219.csv"
+ },
+ {
+  "file": "2022/VRA_20221.csv",
+  "bytes": 10249133,
+  "sha256": "d296a1617d3bb41b56fc9eaacac66743beed76dca8015d661add40d4b44429e4",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2022/01%20-%20Janeiro/VRA_20221.csv"
+ },
+ {
+  "file": "2022/VRA_202210.csv",
+  "bytes": 10900747,
+  "sha256": "db89305b65977acb9bbfe4701f5a3023c09c116d5eacd4603db5fd33aa805498",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2022/10%20-%20Outubro/VRA_202210.csv"
+ },
+ {
+  "file": "2022/VRA_202211.csv",
+  "bytes": 10906581,
+  "sha256": "b91dc19d910bde6df52a458decbdf44aab163ee412ef4645370b5c4540db0ef7",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2022/11%20-%20Novembro/VRA_202211.csv"
+ },
+ {
+  "file": "2022/VRA_202212.csv",
+  "bytes": 11813079,
+  "sha256": "ad2654fb47e4725dcafceeab280999cb9550ff1adf2e3da687633d1d9975690a",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2022/12%20-%20Dezembro/VRA_202212.csv"
+ },
+ {
+  "file": "2022/VRA_20222.csv",
+  "bytes": 8152506,
+  "sha256": "5b3891dcb8350282ee9a5e661884935b2158431ba2ef3232737be274d16bf6b0",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2022/02%20-%20Fevereiro/VRA_20222.csv"
+ },
+ {
+  "file": "2022/VRA_20223.csv",
+  "bytes": 9484818,
+  "sha256": "a093770d3c6b7fdeccc0a5223b904ab4865b878df3322619dc553e32b7c09969",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2022/03%20-%20Mar%C3%A7o/VRA_20223.csv"
+ },
+ {
+  "file": "2022/VRA_20224.csv",
+  "bytes": 9237433,
+  "sha256": "fff79b4203a72f1eabad4f8dcf9cbcb3bfbd7d5f3714b1cfc7af5d76d479bfd3",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2022/04%20-%20Abril/VRA_20224.csv"
+ },
+ {
+  "file": "2022/VRA_20225.csv",
+  "bytes": 10126554,
+  "sha256": "f65cb4ea33a83d2f16c01a1d8e934e310c4bc77f8d8544f2ed77b9ee3364b3da",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2022/05%20-%20Maio/VRA_20225.csv"
+ },
+ {
+  "file": "2022/VRA_20226.csv",
+  "bytes": 9594732,
+  "sha256": "088da3bc540472b9c47ed310e14269ec0f5b846c9e28576aeac8381d5a9c7f8b",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2022/06%20-%20Junho/VRA_20226.csv"
+ },
+ {
+  "file": "2022/VRA_20227.csv",
+  "bytes": 11040080,
+  "sha256": "64fc996418afca96c2c3e820da54c5b5b65c1738788fea0a23e287dea7552ee4",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2022/07%20-%20Julho/VRA_20227.csv"
+ },
+ {
+  "file": "2022/VRA_20228.csv",
+  "bytes": 10610101,
+  "sha256": "c347508192b02d32e412fd5b1076848b5b125e051fe7a3a107c33ada0e8d7437",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2022/08%20-%20Agosto/VRA_20228.csv"
+ },
+ {
+  "file": "2022/VRA_20229.csv",
+  "bytes": 10334815,
+  "sha256": "27349361c7e095214053f388f582c9728abeb66e783a2c466d16f1067bc62289",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2022/09%20-%20Setembro/VRA_20229.csv"
+ },
+ {
+  "file": "2023/VRA_20231.csv",
+  "bytes": 12201310,
+  "sha256": "1fecd3f0ad9f35a21ca3ae7a667a35000481b674d738b143c20f6bf192df0d77",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2023/01%20-%20Janeiro/VRA_20231.csv"
+ },
+ {
+  "file": "2023/VRA_202310.csv",
+  "bytes": 11469579,
+  "sha256": "7807889925326c8146bd1448a255e041d6b6581a83b3c4ad34e2b779970460b0",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2023/10%20-%20Outubro/VRA_202310.csv"
+ },
+ {
+  "file": "2023/VRA_202311.csv",
+  "bytes": 10975312,
+  "sha256": "222733957e550812c39294626471752a147434b5383c01a6bc5d3cbfdb4c534c",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2023/11%20-%20Novembro/VRA_202311.csv"
+ },
+ {
+  "file": "2023/VRA_202312.csv",
+  "bytes": 11639729,
+  "sha256": "0818bc9d1c95bc13e6c05c3d0b83c2abcaed737fe5de1f110c1ae7f7454b36a9",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2023/12%20-%20Dezembro/VRA_202312.csv"
+ },
+ {
+  "file": "2023/VRA_20232.csv",
+  "bytes": 10269913,
+  "sha256": "eae58bb0ebc3156ef45439b8eaa0f94b6a7ba4c81d618b8ca51078095f3bc722",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2023/02%20-%20Fevereiro/VRA_20232.csv"
+ },
+ {
+  "file": "2023/VRA_20233.csv",
+  "bytes": 11484935,
+  "sha256": "c4ae38769ddb16036df33b072f68d89279e41f1db533f2f9d2635de7508e4343",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2023/03%20-%20Mar%C3%A7o/VRA_20233.csv"
+ },
+ {
+  "file": "2023/VRA_20234.csv",
+  "bytes": 10816595,
+  "sha256": "1782ffd5086d710e90c2c7ce5081d8e7b038130999d025c90b8b0e6fede64900",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2023/04%20-%20Abril/VRA_20234.csv"
+ },
+ {
+  "file": "2023/VRA_20235.csv",
+  "bytes": 11434377,
+  "sha256": "dae9597f187110e8141bb83896f643dfd653cabd87a746e34db02ca16da9b325",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2023/05%20-%20Maio/VRA_20235.csv"
+ },
+ {
+  "file": "2023/VRA_20236.csv",
+  "bytes": 11104937,
+  "sha256": "850098b629bc73741e7a0b72ec5f8f827a47c989267686451deef2bf56d13aa1",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2023/06%20-%20Junho/VRA_20236.csv"
+ },
+ {
+  "file": "2023/VRA_20237.csv",
+  "bytes": 12174089,
+  "sha256": "82f33f94e2ccb8c99100051014fdc32e9a346532dbd70735acd5dc5d6931fa95",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2023/07%20-%20Julho/VRA_20237.csv"
+ },
+ {
+  "file": "2023/VRA_20238.csv",
+  "bytes": 11910578,
+  "sha256": "50a97bf38be3df9d74c9c45249e91843d3418638a7b0ef899d1fd9c11a18370a",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2023/08%20-%20Agosto/VRA_20238.csv"
+ },
+ {
+  "file": "2023/VRA_20239.csv",
+  "bytes": 11246708,
+  "sha256": "326d929cab9ebb36344b48769f6e9885090a8d1cf824b980821a9d8fcf7da947",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2023/09%20-%20Setembro/VRA_20239.csv"
+ },
+ {
+  "file": "2024/VRA_202410.csv",
+  "bytes": 11770414,
+  "sha256": "c49554b3bf787dc9c75576dee4dc6c35c1d703e65850703f9b34ccbbebd5a648",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2024/10%20-%20Outubro/VRA_202410.csv"
+ },
+ {
+  "file": "2024/VRA_202411.csv",
+  "bytes": 11223421,
+  "sha256": "4f30ead6f7b73fb551b80de59f6a9371da748d3d1b8697a1b5484388d22ff580",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2024/11%20-%20Novembro/VRA_202411.csv"
+ },
+ {
+  "file": "2024/VRA_202412.csv",
+  "bytes": 12070470,
+  "sha256": "2e0b2095cd752f6a9a4c0cc0560d323c72c4e3c4d8e97e30c3bb851777e831d0",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2024/12%20-%20Dezembro/VRA_202412.csv"
+ },
+ {
+  "file": "2024/VRA_20244.csv",
+  "bytes": 11297582,
+  "sha256": "05b0e6d5b61aced1856f2953b5e0f22ecfc761022f0cb702d96f0f93db2b428c",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2024/04%20-%20Abril/VRA_20244.csv"
+ },
+ {
+  "file": "2024/VRA_20245.csv",
+  "bytes": 11021843,
+  "sha256": "5c61e45800aede830b10eab68d2d9eedae7a7001569d75e058dee50ce16b0c30",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2024/05%20-%20Maio/VRA_20245.csv"
+ },
+ {
+  "file": "2024/VRA_20246.csv",
+  "bytes": 10944640,
+  "sha256": "8ee5e24d7300ef9d5071c4d0be33da22469d7abd53ddf42586ddc6cc1f0a08ad",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2024/06%20-%20Junho/VRA_20246.csv"
+ },
+ {
+  "file": "2024/VRA_20247.csv",
+  "bytes": 12292086,
+  "sha256": "c5ca875eb5b74e99a3771fc24f53a281609a5113ed492cea5b6c26ae7898452a",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2024/07%20-%20Julho/VRA_20247.csv"
+ },
+ {
+  "file": "2024/VRA_20248.csv",
+  "bytes": 11938584,
+  "sha256": "28ee2d1c02681d07de8fd6904b7c4c1c0854e3bccfa52f2cfb718b66b4f8b78f",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2024/08%20-%20Agosto/VRA_20248.csv"
+ },
+ {
+  "file": "2024/VRA_20249.csv",
+  "bytes": 11393892,
+  "sha256": "637b45a3fac48b31e1f19c9af9a33c7ab1e82aa4b3383921456bd928770f138e",
+  "file_date": "2026-05-27",
+  "url": "https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%C3%B5es%20a%C3%A9reas/Voo%20Regular%20Ativo%20%28VRA%29/2024/09%20-%20Setembro/VRA_20249.csv"
+ },
+ {
+  "file": "2024/VRA_20260527133655.csv",
+  "bytes": 96482345,
+  "sha256": "1f87b4f7da4c4d82424d1de60efdf330f825c2da84130928b1e0e81ffd0d5bca",
+  "file_date": "2026-05-27",
+  "note": "Manual export from ANAC covering 1 January to 1 May 2024, used because the portal's 2024 folder held only April to December at download time; only legs scheduled before 1 April 2024 are read from it."
+ }
+]

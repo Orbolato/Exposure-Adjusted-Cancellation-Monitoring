@@ -1,0 +1,19 @@
+# Source files are downloaded, not versioned; only their manifests are committed.
+data/siros/*.csv
+data/legacy_portal/**/*.csv
+data/bts/*.parquet
+data/anac_statistics/*.csv
+*.part
+
+# Raw inputs of the reference tables (the derived tables in reference/ are versioned).
+reference/ourairports_airports.csv
+reference/rotaer_*.pdf
+
+# Everything the pipeline writes.
+output/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

@@ -1,0 +1,112 @@
+airline,flights,domestic_share,cargo_share,carrier_name,nationality,nationality_source,service,category
+AAF,172,0.0,0.0,AIGLE AZUR,Foreign,ANAC statistics,passenger,Foreign passenger
+AAL,27653,0.015007413300546052,0.0,"AMERICAN AIRLINES, INC.",Foreign,ANAC statistics,passenger,Foreign passenger
+ABB,4,0.0,0.0,AIR BELGIUM S.A.,Foreign,ANAC statistics,passenger,Foreign passenger
+ABJ,2647,1.0,0.0,ATA - AEROTÁXI ABAETÉ LTDA.,Brazilian,ANAC statistics,passenger,Brazilian passenger
+ACA,4803,0.0,0.0,AIR CANADA,Foreign,ANAC statistics,passenger,Foreign passenger
+ACN,68352,0.9999268492509363,0.03738003277153558,AZUL CONECTA LTDA. (EX TWO TAXI AEREO LTDA),Brazilian,ANAC statistics,passenger,Brazilian passenger
+AEA,4433,0.0,0.0,AIR EUROPA LINEAS AEREAS SOCIEDAD ANONIMA,Foreign,ANAC statistics,passenger,Foreign passenger
+AEY,17,0.0,0.0,,Foreign,Domestic-share rule,passenger,Foreign passenger
+AFR,11308,0.0,0.0044216483905199855,SOCIÉTÉ AIR FRANCE,Foreign,ANAC statistics,passenger,Foreign passenger
+AMX,4186,0.0,0.0,AEROVÍAS DE MÉXICO S.A DE C.V - AEROMÉXICO,Foreign,ANAC statistics,passenger,Foreign passenger
+ARE,795,0.0012578616352201257,0.0,AIRES - AEROVÍAS DE INTEGRACÍON REGIONAL S.A.,Foreign,ANAC statistics,passenger,Foreign passenger
+ARG,31512,0.0015866971312515866,0.00022213759837522214,AEROLINEAS ARGENTINAS S/A,Foreign,ANAC statistics,passenger,Foreign passenger
+ASO,325,1.0,0.0,AEROSUL LINHAS AÉREAS LTDA. (EX AEROSUL TÁXI AÉREO E AUSTEN),Brazilian,ANAC statistics,passenger,Brazilian passenger
+AUT,6676,0.00014979029358897544,0.0,AUSTRAL LINEAS AÉREAS - CIELOS DEL SUR,Foreign,ANAC statistics,passenger,Foreign passenger
+AUZ,5,0.0,0.0,CRISTALUX S.A (AMASZONAS URUGUAY),Foreign,ANAC statistics,passenger,Foreign passenger
+AVA,12200,8.19672131147541e-05,0.0,AEROVIAS DEL CONTINENTE AMERICANO S.A. AVIANCA,Foreign,ANAC statistics,passenger,Foreign passenger
+AWE,314,0.0,0.0,"US AIRWAIS, INC",Foreign,ANAC statistics,passenger,Foreign passenger
+AZA,4414,0.0,0.0,ALITALIA SOCIETA AEREA ITALIANA S.P.A.,Foreign,ANAC statistics,passenger,Foreign passenger
+AZG,1,0.0,1.0,SILK WAY WEST AIRLINES,Foreign,ANAC statistics,cargo,Foreign cargo
+AZN,173,0.0,0.0,COMPAÑIA DE SERVICIOS DE TRANSPORTE AEREO AMASZONAS S/A.,Foreign,ANAC statistics,passenger,Foreign passenger
+AZP,1183,0.0008453085376162299,0.0,COMPAÑIA DE AVIACION PARAGUAYA SOCIEDAD ANONIMA - PARANAIR (EX- AMASZONAS PARAGUAY),Foreign,ANAC statistics,passenger,Foreign passenger
+AZU,2674916,0.9916116992084986,0.011208576269310887,AZUL LINHAS AÉREAS BRASILEIRAS S/A,Brazilian,ANAC statistics,passenger,Brazilian passenger
+BAW,6836,0.0002925687536571094,0.0,BRITISH AIRWAYS PLC,Foreign,ANAC statistics,passenger,Foreign passenger
+BOV,4556,0.0,0.0,BOA BOLIVIANA DE AVIACIÓN,Foreign,ANAC statistics,passenger,Foreign passenger
+CCA,631,0.0,0.0,AIR CHINA,Foreign,ANAC statistics,passenger,Foreign passenger
+CFG,767,0.0,0.0,CONDOR FLUGDIENST GMBH,Foreign,ANAC statistics,passenger,Foreign passenger
+CJT,503,0.0,1.0,CARGOJET AIRWAYS LTD.,Foreign,ANAC statistics,cargo,Foreign cargo
+CKS,2,0.0,0.5,KALITTA AIR LLC,Foreign,ANAC statistics,cargo,Foreign cargo
+CLX,4723,0.4573364387042134,0.951513868304044,CARGOLUX AIRLINES INTERNATIONAL S/A,Foreign,ANAC statistics,cargo,Foreign cargo
+CMP,35602,0.0,0.0,COMPAÑIA PANAMEÑA DE AVIACION S.A. (COPA AIRLINES),Foreign,ANAC statistics,passenger,Foreign passenger
+CQB,618,1.0,0.0,APUÍ TÁXI AÉREO S/A,Brazilian,ANAC statistics,passenger,Brazilian passenger
+DAE,61,0.0,1.0,DHL AERO EXPRESO,Foreign,ANAC statistics,cargo,Foreign cargo
+DAL,12014,0.0,0.0,DELTA AIR LINES INC.,Foreign,ANAC statistics,passenger,Foreign passenger
+DLH,6776,0.0,0.0,DEUTSCHE LUFTHANSA A.G.,Foreign,ANAC statistics,passenger,Foreign passenger
+DSM,2915,0.0,0.0,LAN ARGENTINA S.A.,Foreign,ANAC statistics,passenger,Foreign passenger
+DTA,3233,0.2867305907825549,0.004021033096195484,TAAG LINHAS AÉREAS DE ANGOLA (ANGOLA AIRLINES),Foreign,ANAC statistics,passenger,Foreign passenger
+DWI,329,0.0,0.0,ARAJET S.A.,Foreign,ANAC statistics,passenger,Foreign passenger
+EDR,2,0.0,0.0,FLY ALLWAYS N.V.,Foreign,ANAC statistics,passenger,Foreign passenger
+EDW,405,0.0,0.0,EDELWEISS AIR AG,Foreign,ANAC statistics,passenger,Foreign passenger
+ETD,832,0.0,0.0,ETIHAD AIRWAYS P.J.S.C.,Foreign,ANAC statistics,passenger,Foreign passenger
+ETH,5955,0.0,0.31217464315701093,ETHIOPIAN AIRLINES GROUP,Foreign,ANAC statistics,passenger,Foreign passenger
+FBZ,4131,0.0,0.0,FB LÍNEAS AÉREAS S.A (FLYBONDI),Foreign,ANAC statistics,passenger,Foreign passenger
+FDX,2500,0.0,0.9156,FEDEX - FEDERAL EXPRESS CORPORATION,Foreign,ANAC statistics,cargo,Foreign cargo
+FYW,2250,1.0,0.0,FLYWAYS LINHAS AÉREAS LTDA.,Brazilian,ANAC statistics,passenger,Brazilian passenger
+GEC,5209,0.44480706469571896,0.9042042618544827,LUFTHANSA CARGO AG,Foreign,ANAC statistics,cargo,Foreign cargo
+GLO,2267786,0.9767389868356186,0.02110781176001616,GOL LINHAS AÉREAS S.A. (EX- VRG LINHAS AÉREAS S.A.),Brazilian,ANAC statistics,passenger,Brazilian passenger
+GTI,5523,0.008509867825457179,0.9541915625565816,ATLAS AIR INC,Foreign,ANAC statistics,cargo,Foreign cargo
+IBE,5825,0.0,0.003090128755364807,IBÉRIA LINEAS AEREAS DE ESPAÑA SOCIEDAD ANONIMA OPERADORA,Foreign,ANAC statistics,passenger,Foreign passenger
+INC,358,0.0,0.0,INSEL AIR INTERNATIONAL B.V.,Foreign,ANAC statistics,passenger,Foreign passenger
+IPM,4540,1.0,0.0,ITAPEMIRIM TRANSPORTES AEREOS LTDA,Brazilian,ANAC statistics,passenger,Brazilian passenger
+ISS,281,0.49110320284697506,0.0,AIR ITALY S.P.A (EX - MERIDIANA FLY S.P.A).,Foreign,ANAC statistics,passenger,Foreign passenger
+ITY,1649,0.0,0.0006064281382656155,ITALIA TRANSPORTO AEREO S.P.A.,Foreign,ANAC statistics,passenger,Foreign passenger
+JAT,2490,0.0,0.0,JETSMART AIRLINES SPA - CHILE,Foreign,ANAC statistics,passenger,Foreign passenger
+JES,1159,0.0,0.0,JETSMART AIRLINES S.A - ARGENTINA,Foreign,ANAC statistics,passenger,Foreign passenger
+KAL,1518,0.0,0.505270092226614,KOREAN AIR LINES CO. LTD.,Foreign,ANAC statistics,cargo,Foreign cargo
+KLM,7121,0.0,0.0,KLM CIA. REAL HOLANDESA DE AVIAÇÃO,Foreign,ANAC statistics,passenger,Foreign passenger
+LAE,9128,0.6090052585451359,0.9784180543382998,LÍNEA AÉREA CARGUEIRA DE COLOMBIA S.A - LANCO,Foreign,ANAC statistics,cargo,Foreign cargo
+LAN,20417,0.00019591516873193908,0.00205710927168536,LATAM AIRLINES GROUP (EX - LAN AIRLINES S/A),Foreign,ANAC statistics,passenger,Foreign passenger
+LAP,7014,0.0,0.0,TRANSPORTE AÉREOS DEL MERCOSUR S.A. (TAM MERCOSUR),Foreign,ANAC statistics,passenger,Foreign passenger
+LCO,8991,0.4823712601490379,0.9586252919586253,LAN CARGO S.A.,Foreign,ANAC statistics,cargo,Foreign cargo
+LNE,101,0.04950495049504951,0.9900990099009901,LATAM AIRLINES ECUADOR S.A.,Foreign,ANAC statistics,cargo,Foreign cargo
+LPE,6167,0.0,0.0,LATAM AIRLINES PERU (EX-LAN PERU S.A.),Foreign,ANAC statistics,passenger,Foreign passenger
+LRC,47,0.0,0.0,AVIANCA COSTA RICA SOCIEDAD ANONIMA ( EX - LACSA LÍNEAS AÉREAS COSTARRICENSES S/A),Foreign,ANAC statistics,passenger,Foreign passenger
+LTG,24796,0.7133408614292628,0.9953621551863204,ABSA - AEROLINHAS BRASILEIRAS S.A.,Brazilian,ANAC statistics,cargo,Brazilian cargo
+MAA,401,0.38403990024937656,1.0,AEROTRANSPORTES MAS DE CARGA S.A. DE C.V.,Foreign,ANAC statistics,cargo,Foreign cargo
+MPH,2384,0.005453020134228188,0.9203020134228188,MARTINAIR HOLLAND N.V.,Foreign,ANAC statistics,cargo,Foreign cargo
+MWM,5561,1.0,1.0,MODERN TRANSPORTE AEREO DE CARGA S.A,Brazilian,ANAC statistics,cargo,Brazilian cargo
+NLU,93,0.0,0.0,INSEL AIR ARUBA N.V.,Foreign,ANAC statistics,passenger,Foreign passenger
+NRS,201,0.0,0.0,NORWEGIAN AIR UK LIMITED,Foreign,ANAC statistics,passenger,Foreign passenger
+OAE,2,0.0,0.0,OMNI AIR INTERNATIONAL,Foreign,ANAC statistics,passenger,Foreign passenger
+OMI,5,1.0,0.0,OMNI TÁXI AÉREO S.A.,Brazilian,ANAC statistics,passenger,Brazilian passenger
+ONE,362219,0.9899646346547255,0.006493309296309691,OCEANAIR LINHAS AÉREAS S.A. (AVIANCA),Brazilian,ANAC statistics,passenger,Brazilian passenger
+OWT,32638,0.9978246216067161,0.13052270359703413,,Brazilian,Domestic-share rule,passenger,Brazilian passenger
+PAM,40071,1.0,0.0,MAP TRANSPORTES AÉREOS LTDA.,Brazilian,ANAC statistics,passenger,Brazilian passenger
+PTB,172397,1.0,0.0001624158193007999,PASSAREDO TRANSPORTES AÉREOS S.A.,Brazilian,ANAC statistics,passenger,Brazilian passenger
+PVV,1,0.0,1.0,FLY PRO S.R.L.,Foreign,ANAC statistics,cargo,Foreign cargo
+QCL,1,0.0,1.0,AIR EXPRESS S.A. (AIR CLASS LINEAS AEREAS) / EX-AERO V.I.P. LTDA,Foreign,ANAC statistics,cargo,Foreign cargo
+QTR,9503,0.0002104598547827002,0.27149321266968324,QATAR AIRWAYS GROUP,Foreign,ANAC statistics,passenger,Foreign passenger
+RAM,1513,0.14937210839391937,0.0,COMPAGNIE NATIONALE ROYAL AIR MAROC,Foreign,ANAC statistics,passenger,Foreign passenger
+RIO,5973,1.0,1.0,RIO LINHAS AÉREAS S.A.,Brazilian,ANAC statistics,cargo,Brazilian cargo
+ROI,302,0.0,0.0,AVIOR AIRLINES BRASIL C.A.,Foreign,ANAC statistics,passenger,Foreign passenger
+SAA,2701,0.0,0.0,SOUTH AFRICAN AIRWAYS STATE OWNED COMPANY (SOC) LIMITED,Foreign,ANAC statistics,passenger,Foreign passenger
+SHH,1,0.0,0.0,SKY HIGH AVIATION SERVICES DOMINICANA S.A.,Foreign,ANAC statistics,passenger,Foreign passenger
+SIA,283,0.0,0.0,SINGAPORE AIRLINES LIMITED,Foreign,ANAC statistics,passenger,Foreign passenger
+SID,33250,1.0,0.9998195488721805,SIDERAL LINHAS AÉREAS LTDA.,Brazilian,ANAC statistics,cargo,Brazilian cargo
+SKU,5967,0.0,0.001005530417295123,SKY AIRLINE S.A.,Foreign,ANAC statistics,passenger,Foreign passenger
+SKX,692,0.0,0.0,SKY AIRLINE PERU S.A.C.,Foreign,ANAC statistics,passenger,Foreign passenger
+SLM,998,0.0,0.0,SURINAM AIRWAYS LTD,Foreign,ANAC statistics,passenger,Foreign passenger
+SLX,7720,1.0,0.0,SETE LINHAS AÉREAS LTDA.,Brazilian,ANAC statistics,passenger,Brazilian passenger
+SOO,47,0.0,1.0,SOUTHERN AIR INC,Foreign,ANAC statistics,cargo,Foreign cargo
+SUL,1191,1.0,0.0,ASTA LINHAS AÉREAS LTDA ( EX - AMÉRICA DO SUL LINHAS AÉREAS LTDA.),Brazilian,ANAC statistics,passenger,Brazilian passenger
+SWQ,3,0.0,0.0,"SWIFT AIR, LLC",Foreign,ANAC statistics,passenger,Foreign passenger
+SWR,3633,0.0,0.0,SWISS INTERNATIONAL AIR LINES LTD.,Foreign,ANAC statistics,passenger,Foreign passenger
+TAE,894,0.0,0.0,TAME LINEA AEREA DEL ECUADOR,Foreign,ANAC statistics,passenger,Foreign passenger
+TAM,2126967,0.9542606913976569,9.920229133785338e-05,TAM LINHAS AÉREAS S.A.,Brazilian,ANAC statistics,passenger,Brazilian passenger
+TAP,34353,0.03228247896835793,0.00017465723517596715,TAP - TRANSPORTES AÉREOS PORTUGUESES S/A,Foreign,ANAC statistics,passenger,Foreign passenger
+TCV,1555,0.1967845659163987,0.0,EMPRESA DE TRANSPORTES AÉREOS DE CABO VERDE - TACV S.A.,Foreign,ANAC statistics,passenger,Foreign passenger
+TGY,1,0.0,0.0,TRANS GUYANA AIRWAYS,Foreign,ANAC statistics,passenger,Foreign passenger
+THY,7131,0.0,0.1110643668489693,TURKISH AIRLINES INC,Foreign,ANAC statistics,passenger,Foreign passenger
+TIB,10,1.0,0.0,,Brazilian,Domestic-share rule,passenger,Brazilian passenger
+TIW,1,1.0,1.0,TRANSCARGA INTERNATIONAL AIRWAYS C.A.,Foreign,ANAC statistics,cargo,Foreign cargo
+TOT,186,1.0,1.0,ANIVIA LINHAS AÉREAS LTDA,Brazilian,ANAC statistics,cargo,Brazilian cargo
+TPA,4809,0.2314410480349345,0.9511332917446454,TAMPA CARGO S.A.,Foreign,ANAC statistics,cargo,Foreign cargo
+TPU,5587,0.0010739216037229282,0.0,AVIANCA PERU S.A (EX: TRANS AMERICAN AIRLINES S.A. - TACA PERU),Foreign,ANAC statistics,passenger,Foreign passenger
+TTL,21923,1.0,0.9364594261734251,TOTAL LINHAS AÉREAS S.A.,Brazilian,ANAC statistics,cargo,Brazilian cargo
+TUS,8418,0.8555476360180565,1.0,,Brazilian,Domestic-share rule,cargo,Brazilian cargo
+UAE,9174,0.001853063004142141,0.08491388707216045,EMIRATES,Foreign,ANAC statistics,passenger,Foreign passenger
+UAL,16065,0.0,0.00012449424214130097,"UNITED AIRLINES, INC",Foreign,ANAC statistics,passenger,Foreign passenger
+UKL,2,0.5,0.5,UKRAINE AIR ALLIANCE AIRLINES,Foreign,ANAC statistics,cargo,Foreign cargo
+UPS,4043,0.0,0.9243136284936928,UPS - UNITED PARCEL SERVICE CO.,Foreign,ANAC statistics,cargo,Foreign cargo
+VVC,139,0.0,0.0,VIVA AIR - FAST COLOMBIA,Foreign,ANAC statistics,passenger,Foreign passenger

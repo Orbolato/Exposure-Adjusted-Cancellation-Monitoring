@@ -1,0 +1,13 @@
+period,cluster,sample_records,share,mode_airline_grouped,mode_line_type,mode_origin,mode_day_type,mode_departure_period
+Overall,1,16821,0.5607,Azul,N,SBKP,Weekday,Afternoon
+Overall,2,9470,0.31566666666666665,Gol,N,SBGR,Weekday,Evening
+Overall,3,3709,0.12363333333333333,Others,G,SBKP,Weekday,Evening
+Pre-pandemic,1,11556,0.3852,TAM,N,SBSP,Weekday,Afternoon
+Pre-pandemic,2,11722,0.3907333333333333,Gol,N,SBGR,Weekday,Morning
+Pre-pandemic,3,6722,0.22406666666666666,Azul,N,SBKP,Weekday,Evening
+Pandemic,1,10135,0.3378333333333333,Azul,N,SBGR,Weekend,Evening
+Pandemic,2,10059,0.3353,Azul,N,SBSP,Weekday,Morning
+Pandemic,3,9806,0.3268666666666667,Others,N,SBGR,Weekday,Morning
+Post-pandemic,1,10409,0.34696666666666665,Others,I,SBGR,Weekday,Evening
+Post-pandemic,2,14808,0.4936,Azul,N,SBKP,Weekday,Afternoon
+Post-pandemic,3,4783,0.15943333333333334,Azul,N,SBKP,Weekday,Evening

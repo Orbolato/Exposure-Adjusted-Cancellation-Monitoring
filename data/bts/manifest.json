@@ -1,0 +1,578 @@
+[
+ {
+  "file": "bts_2018_01.parquet",
+  "bytes": 1480252,
+  "sha256": "39b92add1a19fd0b1eabc692263c78b173ecb0ae5a47c5ae241ae9d4e91d99b9",
+  "rows": 570138,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2018_1.zip"
+ },
+ {
+  "file": "bts_2018_02.parquet",
+  "bytes": 1346787,
+  "sha256": "b9460b32217d664d78b802fce551332563f4c2920b69a66603a5e69d88fb654e",
+  "rows": 520769,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2018_2.zip"
+ },
+ {
+  "file": "bts_2018_03.parquet",
+  "bytes": 1431862,
+  "sha256": "cfaf8f85dab30d101feb60ea27e52061823041b589c40dcf7ed648fec3ee5460",
+  "rows": 612034,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2018_3.zip"
+ },
+ {
+  "file": "bts_2018_04.parquet",
+  "bytes": 1580152,
+  "sha256": "f3f7808001af82a9a0bcb2ae8a66eefc6b260fe704ac58096b146bb9c3ddc19f",
+  "rows": 596078,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2018_4.zip"
+ },
+ {
+  "file": "bts_2018_05.parquet",
+  "bytes": 1537368,
+  "sha256": "d02747ce40496f2925f118eb770f302336d7b3d8e8bd052cafa2ccf2421c6e57",
+  "rows": 616573,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2018_5.zip"
+ },
+ {
+  "file": "bts_2018_06.parquet",
+  "bytes": 1583547,
+  "sha256": "da08e5ca29fe86fb61014f3d1dcb4b17a9113369b18147bc656e3f96dbdcd03d",
+  "rows": 626217,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2018_6.zip"
+ },
+ {
+  "file": "bts_2018_07.parquet",
+  "bytes": 1534855,
+  "sha256": "0c47fbba023047c3155169c1be3463ff0dc9f7c843856769a57d08fbb6645f89",
+  "rows": 645317,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2018_7.zip"
+ },
+ {
+  "file": "bts_2018_08.parquet",
+  "bytes": 1567276,
+  "sha256": "0705704dd2e39477706519c7b8855905cc1001a25ff078f69a80e5f86633bfc0",
+  "rows": 637103,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2018_8.zip"
+ },
+ {
+  "file": "bts_2018_09.parquet",
+  "bytes": 1487312,
+  "sha256": "d45beee9c858486af24fa33b9adbd376982804b22e07389d86110c3ad26bd828",
+  "rows": 585765,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2018_9.zip"
+ },
+ {
+  "file": "bts_2018_10.parquet",
+  "bytes": 1545934,
+  "sha256": "8ba79c3e5fb7aab9acd8caec85bc7f2252073941d4877493bfadd321611b123b",
+  "rows": 616128,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2018_10.zip"
+ },
+ {
+  "file": "bts_2018_11.parquet",
+  "bytes": 1504204,
+  "sha256": "02825e54e0a27a0f23ae0092ce35ddd50ab12a2600556faae45c045424b15ce5",
+  "rows": 586231,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2018_11.zip"
+ },
+ {
+  "file": "bts_2018_12.parquet",
+  "bytes": 1484577,
+  "sha256": "6ebe243c65a72c0593846583ef5b8b0dabb80a883a29598df8293351b0c3747b",
+  "rows": 593842,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2018_12.zip"
+ },
+ {
+  "file": "bts_2019_01.parquet",
+  "bytes": 1478642,
+  "sha256": "d6c25ce77f79bddf48ab17a4ac2799a1e0f69d254326084706cd76e79bfcb63a",
+  "rows": 583985,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2019_1.zip"
+ },
+ {
+  "file": "bts_2019_02.parquet",
+  "bytes": 1331981,
+  "sha256": "d56c42b956395f810b7696e1b2f14dddb870a8e67623587f2f8f3385a2def434",
+  "rows": 533175,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2019_2.zip"
+ },
+ {
+  "file": "bts_2019_03.parquet",
+  "bytes": 1526647,
+  "sha256": "2cbdf71e8f6755f8fcc353d49d9a1b807e99f1320efe7756334451aa1083f286",
+  "rows": 632074,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2019_3.zip"
+ },
+ {
+  "file": "bts_2019_04.parquet",
+  "bytes": 1495656,
+  "sha256": "ca351c54aef4fcec6d048f106016c31d00e5c15e87567fa6efaf2a0d73906386",
+  "rows": 612023,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2019_4.zip"
+ },
+ {
+  "file": "bts_2019_05.parquet",
+  "bytes": 1588845,
+  "sha256": "b47f6d4a0872ec3864640eefaf1f52017c0786075e1744ab7772e84612e37d5f",
+  "rows": 636390,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2019_5.zip"
+ },
+ {
+  "file": "bts_2019_06.parquet",
+  "bytes": 1633373,
+  "sha256": "e88c88ca84592db769bc70fd0b128e6cb19fc5e2c5ba50504078b2e5e722dd03",
+  "rows": 636691,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2019_6.zip"
+ },
+ {
+  "file": "bts_2019_07.parquet",
+  "bytes": 1568892,
+  "sha256": "1258180c3c3909cfe6f2b65f8df44b3e74b76ab021a115d09f3a336cae440b0c",
+  "rows": 659029,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2019_7.zip"
+ },
+ {
+  "file": "bts_2019_08.parquet",
+  "bytes": 1611407,
+  "sha256": "048bad630afa95e49b5a016c4d5d7d477637b62e51d523cdca9c9b1a216994b4",
+  "rows": 658461,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2019_8.zip"
+ },
+ {
+  "file": "bts_2019_09.parquet",
+  "bytes": 1570666,
+  "sha256": "d7fa468ffa0205d8b6e6f42f115ea12966acab0cbb5315b15c3a59058344cb76",
+  "rows": 605979,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2019_9.zip"
+ },
+ {
+  "file": "bts_2019_10.parquet",
+  "bytes": 1543306,
+  "sha256": "7fd2b07623f686c6b7ec789e2ca5711a5ec42116143597ab6abacbe7c24d6987",
+  "rows": 636014,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2019_10.zip"
+ },
+ {
+  "file": "bts_2019_11.parquet",
+  "bytes": 1559570,
+  "sha256": "9b5ebd05d04c093381caa9c7bc8c9d8bfd1f3b2a8b3a7ff39402cafd5ed5924f",
+  "rows": 602453,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2019_11.zip"
+ },
+ {
+  "file": "bts_2019_12.parquet",
+  "bytes": 1776868,
+  "sha256": "820466437601ab2754410664bf0a5af30e308317d9529b819cd3d210d9563863",
+  "rows": 625763,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2019_12.zip"
+ },
+ {
+  "file": "bts_2020_01.parquet",
+  "bytes": 1564808,
+  "sha256": "3fc0721c242508029421643b68afa0a56ea1a42a6015e27156a79c9b8adc084e",
+  "rows": 607346,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2020_1.zip"
+ },
+ {
+  "file": "bts_2020_02.parquet",
+  "bytes": 1399908,
+  "sha256": "0aea3cbe58507558e233ec2d84cc623d0df1fac6426e9fc7935ba2edcaf16b5f",
+  "rows": 574268,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2020_2.zip"
+ },
+ {
+  "file": "bts_2020_03.parquet",
+  "bytes": 1724636,
+  "sha256": "0c994af2e2aab5da0e1e42c68e15e79f0a5ae03320af3f82484c9cc9d541689b",
+  "rows": 648229,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2020_3.zip"
+ },
+ {
+  "file": "bts_2020_04.parquet",
+  "bytes": 836450,
+  "sha256": "b9b20d85e39588c195c4bd49de0e56a3e9d58034bfbe948b198e761f0fc094f4",
+  "rows": 313382,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2020_4.zip"
+ },
+ {
+  "file": "bts_2020_05.parquet",
+  "bytes": 459103,
+  "sha256": "453e3ef4a65648b2c903f2c8d4f9bafc7953ca9a31ad2e34b1f7764bba168360",
+  "rows": 180617,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2020_5.zip"
+ },
+ {
+  "file": "bts_2020_06.parquet",
+  "bytes": 544338,
+  "sha256": "f98c2f3553dd0e8cd551b7dd4ea02878f3967089aab533f13c582d2c6d57dc11",
+  "rows": 223732,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2020_6.zip"
+ },
+ {
+  "file": "bts_2020_07.parquet",
+  "bytes": 776432,
+  "sha256": "bc34ce491e22709a08b7c9489202df1df3c2782943cac9610d07c1d1e834f98f",
+  "rows": 352888,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2020_7.zip"
+ },
+ {
+  "file": "bts_2020_08.parquet",
+  "bytes": 862818,
+  "sha256": "675fffe7a36f0658aeda89aca6228ae7acca2b50753c29cf82d2b80b92585826",
+  "rows": 376715,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2020_8.zip"
+ },
+ {
+  "file": "bts_2020_09.parquet",
+  "bytes": 790454,
+  "sha256": "7783399b79e006b6ec2db5b576b77a2e2eb722f6be0f4539fe19703e6daeedd7",
+  "rows": 323347,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2020_9.zip"
+ },
+ {
+  "file": "bts_2020_10.parquet",
+  "bytes": 895773,
+  "sha256": "914c93bb4bb7d7cb345146bc3c1a24d06454b0a44ede479834cd242ded5fe929",
+  "rows": 352106,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2020_10.zip"
+ },
+ {
+  "file": "bts_2020_11.parquet",
+  "bytes": 989225,
+  "sha256": "bbeb672d8389f251b444bbc0ef9231c6715b6ca1945e41c5ec2bcafd1e128b8f",
+  "rows": 364367,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2020_11.zip"
+ },
+ {
+  "file": "bts_2020_12.parquet",
+  "bytes": 1002398,
+  "sha256": "5e9057e880cc497b4ff0c012b6e58eec9005ef89e8661779e724afbbe7c5e49c",
+  "rows": 371357,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2020_12.zip"
+ },
+ {
+  "file": "bts_2021_01.parquet",
+  "bytes": 1041617,
+  "sha256": "895d08a963bc95da2efc08f3b98954f7c7a2534371928048aa375cfce5a75cf7",
+  "rows": 361428,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2021_1.zip"
+ },
+ {
+  "file": "bts_2021_02.parquet",
+  "bytes": 963416,
+  "sha256": "f5818c8eb49899e59420e907ab905a45efff41e7759fe2f1807c2d557b739f0b",
+  "rows": 332468,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2021_2.zip"
+ },
+ {
+  "file": "bts_2021_03.parquet",
+  "bytes": 1190179,
+  "sha256": "cb666dd6f01d89e2c66078dae1c74bb213bb9c81630d66cc343ee22cf7402355",
+  "rows": 444476,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2021_3.zip"
+ },
+ {
+  "file": "bts_2021_04.parquet",
+  "bytes": 1171626,
+  "sha256": "2f34c288f7773fb9556a5967e36ae382eec56490189606fdcd1af70394ad1b25",
+  "rows": 450637,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2021_4.zip"
+ },
+ {
+  "file": "bts_2021_05.parquet",
+  "bytes": 1203941,
+  "sha256": "0cb632aa7e19a9cd1e8dbdcba2ad236b3b5a48bc3abed6ce92ac52fbf493bf4e",
+  "rows": 495544,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2021_5.zip"
+ },
+ {
+  "file": "bts_2021_06.parquet",
+  "bytes": 1376636,
+  "sha256": "9a83ce0a573406756da21261e970e637f52a7e8196c5e20cfce02585bd9880c4",
+  "rows": 546124,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2021_6.zip"
+ },
+ {
+  "file": "bts_2021_07.parquet",
+  "bytes": 1455879,
+  "sha256": "4088bcc6efe8f24154ed703a1058efc976037e94bf580c3ca4bb9679b504e779",
+  "rows": 583258,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2021_7.zip"
+ },
+ {
+  "file": "bts_2021_08.parquet",
+  "bytes": 1463373,
+  "sha256": "42546ea836ce015c0625e285c1e351ff440de5628c88b708f67c60b5abdefe9e",
+  "rows": 579179,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2021_8.zip"
+ },
+ {
+  "file": "bts_2021_09.parquet",
+  "bytes": 1423423,
+  "sha256": "05784a4cee4cdfb4743db8fe82947e97d266a4d14f190354a25871460c66f4f5",
+  "rows": 538051,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2021_9.zip"
+ },
+ {
+  "file": "bts_2021_10.parquet",
+  "bytes": 1479131,
+  "sha256": "52214bd28720080313318bb133b02f2cf7f030ef06f112645fc15aff07580cec",
+  "rows": 564788,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2021_10.zip"
+ },
+ {
+  "file": "bts_2021_11.parquet",
+  "bytes": 1509128,
+  "sha256": "e09a4d58b02d71c71a9e028ff8591568ce56c152261ba84852b30206142b425c",
+  "rows": 547559,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2021_11.zip"
+ },
+ {
+  "file": "bts_2021_12.parquet",
+  "bytes": 1532022,
+  "sha256": "74e3704599957fd41219b079c4c999adfcd5c4c228290fdc48992fb5b3430f35",
+  "rows": 551885,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2021_12.zip"
+ },
+ {
+  "file": "bts_2023_01.parquet",
+  "bytes": 1309836,
+  "sha256": "02329d1e2e2d51a085709448be5dd1ce0c4bd54431ef9e7e3322b79c278a2cfb",
+  "rows": 538837,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_1.zip"
+ },
+ {
+  "file": "bts_2023_02.parquet",
+  "bytes": 1158191,
+  "sha256": "c947b00b7fa2fec3145b40f3297c7813754ea60af7e36cf9cbd846571474d0c2",
+  "rows": 502749,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_2.zip"
+ },
+ {
+  "file": "bts_2023_03.parquet",
+  "bytes": 1366842,
+  "sha256": "d2320b3b54d9ec35df09793969b2c5bc736eb0bb1699ab21655144ad99e44a96",
+  "rows": 580322,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_3.zip"
+ },
+ {
+  "file": "bts_2023_04.parquet",
+  "bytes": 1246308,
+  "sha256": "a3c5e9ef7b9446e040d69502ee723269379083675fed285095462e50e3d7713e",
+  "rows": 561441,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_4.zip"
+ },
+ {
+  "file": "bts_2023_05.parquet",
+  "bytes": 1361246,
+  "sha256": "0e7900e0375136f688467df25e4bca60ad5535535754cd2ea0975b5d5b64445e",
+  "rows": 579958,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_5.zip"
+ },
+ {
+  "file": "bts_2023_06.parquet",
+  "bytes": 1293487,
+  "sha256": "456e8e5dc19effa55e01a009d4b2519d489e330080426bbabfaa5380e45e37b3",
+  "rows": 577262,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_6.zip"
+ },
+ {
+  "file": "bts_2023_07.parquet",
+  "bytes": 1369584,
+  "sha256": "875ab26bdca3f59c8ebc7df752f54a8e1b1b229d7c4d50763e28201ea5e43833",
+  "rows": 601866,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_7.zip"
+ },
+ {
+  "file": "bts_2023_08.parquet",
+  "bytes": 1251929,
+  "sha256": "e25bd9ebc61013e5dad60370846f73f4d73ffa1b968b5d6edf231921ea45ddcb",
+  "rows": 602987,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_8.zip"
+ },
+ {
+  "file": "bts_2023_09.parquet",
+  "bytes": 1321487,
+  "sha256": "0b2edc75362767756204683f122579d7ad104eb7fe826780c3e3f9da1c88a4b1",
+  "rows": 569338,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_9.zip"
+ },
+ {
+  "file": "bts_2023_10.parquet",
+  "bytes": 1443035,
+  "sha256": "5782eab003545cd0241fa175fac5cabe26046c86b3f132fd4aff7e8d99319a8e",
+  "rows": 598968,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_10.zip"
+ },
+ {
+  "file": "bts_2023_11.parquet",
+  "bytes": 1360863,
+  "sha256": "31eaba610b69f3be7ab74257cc99084869df6436d220c265f0c3393b0abd7177",
+  "rows": 563777,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_11.zip"
+ },
+ {
+  "file": "bts_2023_12.parquet",
+  "bytes": 1430813,
+  "sha256": "6671ae9f5b1249157fc9c9a429b61c190d15b6f37260e74cbb6be383bec4bdca",
+  "rows": 570394,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_12.zip"
+ },
+ {
+  "file": "bts_2024_01.parquet",
+  "bytes": 1337087,
+  "sha256": "94668dfc2b2b17ee28eeb10b4651173af876cb635d4904c3cdea9e29531180ca",
+  "rows": 547271,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_1.zip"
+ },
+ {
+  "file": "bts_2024_02.parquet",
+  "bytes": 1165749,
+  "sha256": "2984c4229f67b140dcf04122af921480303e7ea94972d82a131d7333e5f4a697",
+  "rows": 519221,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_2.zip"
+ },
+ {
+  "file": "bts_2024_03.parquet",
+  "bytes": 1358909,
+  "sha256": "9e31c83d80a2e0467e553598d19e9e7bdfed3868b7313b098ca5a88c86df5295",
+  "rows": 591767,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_3.zip"
+ },
+ {
+  "file": "bts_2024_04.parquet",
+  "bytes": 1326226,
+  "sha256": "eb341a34ffc8e981de561cb72bf20effe91bedadfdcfee4e60c60ad3f98ec275",
+  "rows": 582185,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_4.zip"
+ },
+ {
+  "file": "bts_2024_05.parquet",
+  "bytes": 1421922,
+  "sha256": "b588f4078e03abd06c46a37a18c0d9d365e961fd5199c5ba9139bfca2acae423",
+  "rows": 609743,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_5.zip"
+ },
+ {
+  "file": "bts_2024_06.parquet",
+  "bytes": 1420787,
+  "sha256": "f735357514208dc56897177be8a5368c95c55448f6a663ec485cfac46e66b190",
+  "rows": 611132,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_6.zip"
+ },
+ {
+  "file": "bts_2024_07.parquet",
+  "bytes": 1645632,
+  "sha256": "db9f0c04c767fe292a932b110d03cf2f8b6d83fc0584786cb3308409eff756b9",
+  "rows": 634613,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_7.zip"
+ },
+ {
+  "file": "bts_2024_08.parquet",
+  "bytes": 1408971,
+  "sha256": "a3c750966c47d17b39ffb8e2f30b229497f924fc5f5ef3c95f6e57a5633d033d",
+  "rows": 619025,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_8.zip"
+ },
+ {
+  "file": "bts_2024_09.parquet",
+  "bytes": 1306279,
+  "sha256": "e041f88dd7d22f4f66e2935fc753f78994c83c1f4aeb334b96eef6c7422887ce",
+  "rows": 582622,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_9.zip"
+ },
+ {
+  "file": "bts_2024_10.parquet",
+  "bytes": 1447968,
+  "sha256": "8def128f7b5d4c01cadb92a74ef11752d06e48d90ad437010c403b2c0da8097b",
+  "rows": 615497,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_10.zip"
+ },
+ {
+  "file": "bts_2024_11.parquet",
+  "bytes": 1376584,
+  "sha256": "4e999e924c151adf987af6aa881230bc23013ad2ed76ef905de0283b6d5b1cd7",
+  "rows": 575404,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_11.zip"
+ },
+ {
+  "file": "bts_2024_12.parquet",
+  "bytes": 1456769,
+  "sha256": "cf2b60d1538520442e4af50392033c12da28bcf68cda0ee1ff1371267823b7fc",
+  "rows": 590581,
+  "file_date": "2026-08-18",
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_12.zip"
+ }
+]

@@ -1,0 +1,5 @@
+selection,airports,cancelled_records,share_of_cancelled_sb_origin,silhouette_k3
+all_airports,243,543899,1.0,0.299924165659954
+cancellation_share_80,24,439148,0.8074072575974583,0.3036348629767402
+cancellation_share_90,42,490911,0.9025775006021338,0.2995251230037711
+scheduled_exposure_share_80,18,408885,0.751766412514088,0.3061975788574697

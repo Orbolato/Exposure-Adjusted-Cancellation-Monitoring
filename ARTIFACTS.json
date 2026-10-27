@@ -1,0 +1,602 @@
+{
+ "results/bts/bts_cell_algorithm_comparison.csv": {
+  "bytes": 1285,
+  "sha256": "3814e088b6e2cd914a026fe1ebd9796105d0b7dddde52ded5882dd6c47118aae"
+ },
+ "results/bts/bts_cell_algorithm_high_rate_segment.csv": {
+  "bytes": 1321,
+  "sha256": "ada78ee6b135924e4c43cc4ed0b56ddf0dca7a62d4198def531d03226a291dd6"
+ },
+ "results/bts/bts_cell_cluster_k_selection.csv": {
+  "bytes": 192,
+  "sha256": "4a0358d0b55a0667cd2ffcc4dbfa20865dd3686abfca997764626f6bb1f22222"
+ },
+ "results/bts/bts_cell_cluster_validity_indices.csv": {
+  "bytes": 4406,
+  "sha256": "18f5f442ca0c5e83f1b6a5921d16ffb8dcde4d17cfc5b29ee4b07dc965d15cec"
+ },
+ "results/bts/bts_rate_cell_cluster_profiles.csv": {
+  "bytes": 1604,
+  "sha256": "b660e3d00e1e16f3063ebbb05c713d20c45e910ed5eda70994f2ac8839b08000"
+ },
+ "results/bts/bts_watchlist_out_of_sample_clusters.csv": {
+  "bytes": 513,
+  "sha256": "6bd3d652cac5455f34aa5d7315974363eeb9f2af877e25025bad0755bcc9b129"
+ },
+ "results/bts/bts_watchlist_out_of_sample_summary.csv": {
+  "bytes": 2851,
+  "sha256": "37125a3844eddfe79ba042e0e774e7d374bb030bfbb4ccec753fd2e23ead77ef"
+ },
+ "results/bts/bts_yearly_summary.csv": {
+  "bytes": 356,
+  "sha256": "f421f5b025adddad23544ff6c7d6eb72896da1469b5344b5f433848d7dd78560"
+ },
+ "results/bts/cross_country_out_of_sample.csv": {
+  "bytes": 8620,
+  "sha256": "aaa35093f71aea40508e30c73157ac2b07e1e3c186c5e755ff45b72485d8e560"
+ },
+ "results/bts/cross_country_watchlist_comparison.csv": {
+  "bytes": 1169,
+  "sha256": "ec73602d5558a4b45b875922ed5f46d8b19a51cd3638f01c0aafc71fd3a777fe"
+ },
+ "results/domestic_regular_annual_summary.csv": {
+  "bytes": 1487,
+  "sha256": "e5fae584f4e02ce81f3a64f3215a4321dc06f7ccdd8ec3f60c9851a89adc2daf"
+ },
+ "results/domestic_regular_period_summary.csv": {
+  "bytes": 470,
+  "sha256": "f674837f5a10d875130ba540e22284588881b7968662313734d69353434b4a0a"
+ },
+ "results/tables/algorithms.tex": {
+  "bytes": 1020,
+  "sha256": "74a921fd1671ef1aca153aa810889cefeaa1fb825cf90e6901ea9a412ee3a82d"
+ },
+ "results/tables/annual.tex": {
+  "bytes": 664,
+  "sha256": "28df65428a94ac5b1c56bc891ddc5800a66661e087660a541ee417c5039b3274"
+ },
+ "results/tables/attrition.tex": {
+  "bytes": 674,
+  "sha256": "0852c28bf6a97791f08f6e0a8cc82dd2403d9b0544d8e7b557ed6c6ae3d30292"
+ },
+ "results/tables/bootstrap.tex": {
+  "bytes": 1624,
+  "sha256": "4498ca6581df8cd6808ebe95d320dfd04393a668ffb22bf1d562bc530ac9f412"
+ },
+ "results/tables/carrier-rates.tex": {
+  "bytes": 1210,
+  "sha256": "4c64fd55ac9499056aebba88c2e8fb1e70e1b4b5d3a8e3be99e832915a6e5e32"
+ },
+ "results/tables/cross-country.tex": {
+  "bytes": 863,
+  "sha256": "f27be87b7a9b6adabe21dc659fbdd4d3d30b974721800c583ac6a8c23ec0432d"
+ },
+ "results/tables/diagnostics.tex": {
+  "bytes": 1021,
+  "sha256": "75f7161400f977b3ffd4e861673f7c251717fdb1fd999f25ba271393bffe16e7"
+ },
+ "results/tables/encoding.tex": {
+  "bytes": 439,
+  "sha256": "b14ec2fda0dcb154320e5d4d7e65b6a264299516f364629a6c0735b13b30739f"
+ },
+ "results/tables/exclusions.tex": {
+  "bytes": 1408,
+  "sha256": "7d9347dbb826132c809b16bf8eeb56f1b2120b0e08b6898698dc9cf18cb7141b"
+ },
+ "results/tables/inclusion.tex": {
+  "bytes": 926,
+  "sha256": "8e615de5655aa4269e6e58e42a0a95ff44773532c589c039b584c32f6a8c7134"
+ },
+ "results/tables/k-selection.tex": {
+  "bytes": 145,
+  "sha256": "6b35ebd2754adb009d8a1964cf50f911b5b10907e05475996f8a6a169e539336"
+ },
+ "results/tables/k-sensitivity.tex": {
+  "bytes": 740,
+  "sha256": "d0c482127c032eddbc5adc3dddbb61bb286ed06d05e451671002ebf37aea5141"
+ },
+ "results/tables/oos.tex": {
+  "bytes": 1137,
+  "sha256": "91769f4071250143a31b689e696f5f198c4c6faa575039b014f7ed72e49dc55d"
+ },
+ "results/tables/others.tex": {
+  "bytes": 1200,
+  "sha256": "43ad4df80af62161ffc6630ecc3e74adf5ec26c933a88ab9510938f1c32d0917"
+ },
+ "results/tables/profiles.tex": {
+  "bytes": 836,
+  "sha256": "5714ffa0896a53f21cb6f96e7c61cb5f7fbb63a45e6439ee76c92417702dde0e"
+ },
+ "results/tables/rate-profiles.tex": {
+  "bytes": 1028,
+  "sha256": "b1368906936e749dc19798331716b41ef477c654b758960f29d9d95f93d778d4"
+ },
+ "results/tables/reasons.tex": {
+  "bytes": 1033,
+  "sha256": "9c712ea3ba595220f6ca5b7d3fcfbba6fd42b468b39ce19d3fa55e3471df23bf"
+ },
+ "results/tables/reconciliation.tex": {
+  "bytes": 632,
+  "sha256": "0e12ccc02d63326f851f0b21765303ebfdf940e8d4b6e1800687118dc09b6692"
+ },
+ "results/tables/regimes.tex": {
+  "bytes": 711,
+  "sha256": "a5bdd3ad2ed906fb5cfad62b81f0d7be0aaa2100182cb5a36dbfeccb051b00a3"
+ },
+ "results/tables/sensitivity.tex": {
+  "bytes": 3143,
+  "sha256": "6a0e520c97e9bc78551fc1836c801eb97313b0dc830e5a2ae1369428c5de099e"
+ },
+ "results/tables/stability.tex": {
+  "bytes": 823,
+  "sha256": "c62c6e2818be2414b6891939df196b0672c35b8f568f1eb3586605fee250ae6e"
+ },
+ "results/tables/us-summary.tex": {
+  "bytes": 280,
+  "sha256": "6c0299a0fd63580645b8f843a5506229059b3f4cb03e4493dc8c9704b85057a9"
+ },
+ "results/tables/workload.tex": {
+  "bytes": 739,
+  "sha256": "faa58b225bb03471a080d1899d142e5e760cb3b93071221406db364712042884"
+ },
+ "results/vra/airline_daytype_crosstab_counts.csv": {
+  "bytes": 260,
+  "sha256": "b1c10b1e4bae246945c3aa41055928cf3228a7271b4be5ca49e8132e7481d0d2"
+ },
+ "results/vra/airline_daytype_crosstab_rate_pct.csv": {
+  "bytes": 236,
+  "sha256": "ce6981a71f55c801c4b8f0935ce2d60be1590fee4b468bce160d5a84c3e31637"
+ },
+ "results/vra/airline_grouping_summary.csv": {
+  "bytes": 4081,
+  "sha256": "4bf51ba1b7db508d41391fdd3814ffa1ae20b3ba17759c2a34993d01f3b74edc"
+ },
+ "results/vra/airport_selection_sensitivity.csv": {
+  "bytes": 346,
+  "sha256": "ca903eab7f4e703bdd8c7b39bd93d8915effee0eac7dc53c74bd447002fc2a59"
+ },
+ "results/vra/airport_timezone_usage.csv": {
+  "bytes": 18170,
+  "sha256": "a805cd0ce49ba0b47f3a99d75af4b12aed4e3a946dbfebae28003857b63ab649"
+ },
+ "results/vra/archive_reconciliation_monthly.csv": {
+  "bytes": 8704,
+  "sha256": "2f8cb6b41bffba9625ec5eeb45b6977bd2b9bac5fe0ddc7bcf1f34a4c0962b64"
+ },
+ "results/vra/archive_reconciliation_yearly.csv": {
+  "bytes": 927,
+  "sha256": "4e48fb91f963f43221a5677a48866f7c1b77fab72ff03b00a7aaa312c6acbea3"
+ },
+ "results/vra/baseline_cluster_assignment_divergence.csv": {
+  "bytes": 160,
+  "sha256": "5628cb0233ddba6c74ce05c554f2a607f7b4db51c8ebe89ea3b6764645217713"
+ },
+ "results/vra/baseline_cluster_assignment_shares.csv": {
+  "bytes": 522,
+  "sha256": "b8fc8dcde391668d49dd47500e7666856249097e60eb6c429e62ae5ae8458a73"
+ },
+ "results/vra/cancellation_justification_coverage.csv": {
+  "bytes": 176,
+  "sha256": "26d9544f8117f1293ffd969586370d7068c08bdde0a462af979847d1c4c5e35e"
+ },
+ "results/vra/cancellation_justification_top_codes.csv": {
+  "bytes": 136,
+  "sha256": "ecd86535ccaf7fbc85016a5b6bc3e30a1162125b042f4beeabffd9cb8cf7166d"
+ },
+ "results/vra/cancellation_rate_by_period.csv": {
+  "bytes": 167,
+  "sha256": "2a25afcdef8f233af5c188b0cc10e92f780608f4bb2e41bfe6014e9258d1e7e4"
+ },
+ "results/vra/cancellation_rate_by_period_airline.csv": {
+  "bytes": 643,
+  "sha256": "16a4713fd5c44c1aafc1b024dc283e28b274d8662662161e86db6d0430b182ca"
+ },
+ "results/vra/cancellation_rate_by_period_airline_daytype.csv": {
+  "bytes": 1431,
+  "sha256": "655e3d139cca182a76fbe8b13bd20920f97f32a018b1977fd305dce543f11e0c"
+ },
+ "results/vra/cancellations_by_year_airline_group.csv": {
+  "bytes": 688,
+  "sha256": "5f542667ed28ff61454de1582bec72abd4267e8c42602ef032584b3034542fd9"
+ },
+ "results/vra/categorical_kmodes_profiles.csv": {
+  "bytes": 886,
+  "sha256": "74be83e77ee566e1a0a343c7e40470155fdf9db99253b9db4643a34b78b54430"
+ },
+ "results/vra/categorical_kmodes_summary.csv": {
+  "bytes": 253,
+  "sha256": "834570cb6d2ee0cdd16d05f005e89e040f7aea9d1882af1baa8f54942a2aa257"
+ },
+ "results/vra/cell_algorithm_comparison.csv": {
+  "bytes": 1651,
+  "sha256": "2edfdb32b137c2dff39799ad21142211d90c1c20fbe8b0f1d23c6d823effdd3d"
+ },
+ "results/vra/cell_algorithm_high_rate_segment.csv": {
+  "bytes": 1708,
+  "sha256": "2f3e60913aa24d9c1a0df73cfa5a27500adbc51f58c1d491f2869338c2bf50e2"
+ },
+ "results/vra/cell_cluster_k_selection.csv": {
+  "bytes": 192,
+  "sha256": "83e65888715078b5622e978e687c099d85656ac2da0b0e8cf83c5a8e4d3e2c86"
+ },
+ "results/vra/cell_cluster_validity_indices.csv": {
+  "bytes": 5671,
+  "sha256": "26674782eeccfb68549c42c85713fa00596aac838c69240914ca2ce798dd3d89"
+ },
+ "results/vra/cluster_airline_profiles.csv": {
+  "bytes": 1222,
+  "sha256": "a694e511f6ad8404add7db8fa9edfe7559db9f20db5994d5bfdcc1ebf56ab708"
+ },
+ "results/vra/cluster_daytype_profiles.csv": {
+  "bytes": 379,
+  "sha256": "945576b31cd4cbf5996442de74b0abd6bbf74078d5a6a68b3cb2d8e466388d23"
+ },
+ "results/vra/cluster_departure_period_profiles.csv": {
+  "bytes": 1146,
+  "sha256": "e4eb434931ef28a67e72399341e920b069112c6ec35a2e696ad10397b5357827"
+ },
+ "results/vra/cluster_dominant_characteristics.csv": {
+  "bytes": 1078,
+  "sha256": "f2e7d95a50ac46f4733a9a510b418cdd9aedb8cf6e87010050e76878622421a4"
+ },
+ "results/vra/cluster_size_summary.csv": {
+  "bytes": 515,
+  "sha256": "4983d3e0cfb2b3852ec592e1fabbb9610fa99d74e5d1fd086644376a3d853123"
+ },
+ "results/vra/cluster_weekday_profiles.csv": {
+  "bytes": 1370,
+  "sha256": "8732088259a0646732f7eaba6837a0dcbf8540bfd54b5aa50c3d1e55f6198d38"
+ },
+ "results/vra/duplicates_by_year.csv": {
+  "bytes": 205,
+  "sha256": "e1c4fc749e9d211429316d73a7de7f9d311321d5736bf9b3f43095df30ded1d5"
+ },
+ "results/vra/encoding_sensitivity_segments.csv": {
+  "bytes": 991,
+  "sha256": "dc4b69f0e9b02eae6d33498ff252d1372afd0aa14336890d06002624dbefc27c"
+ },
+ "results/vra/event_algorithm_comparison.csv": {
+  "bytes": 1768,
+  "sha256": "6614c5353378e7ee0a854155173123b178067f222632715fbfbfa44b5f1e009f"
+ },
+ "results/vra/inclusion_flow.csv": {
+  "bytes": 662,
+  "sha256": "86ea62414fe7d940813159004cc7f497fecabfe95e437c94b260b874f416740d"
+ },
+ "results/vra/k_sensitivity_profiles.csv": {
+  "bytes": 2379,
+  "sha256": "43d72cd2e22042a5efcbfb939e541e46fab3322872aacfe3e8fa12484063d2a9"
+ },
+ "results/vra/kmeans_stability_k3.csv": {
+  "bytes": 331,
+  "sha256": "411069210cc2af5b21f396a58aa907de4ae11dc980091477c627a8a11c78a282"
+ },
+ "results/vra/missing_schedule_status.csv": {
+  "bytes": 840,
+  "sha256": "7910b5cecef23ecee495d264f5cf21b3b2a635241e1fecf854dfb0e4cc9ae663"
+ },
+ "results/vra/operational_cell_cancellation_rates_min500.csv": {
+  "bytes": 324364,
+  "sha256": "c74342f4ecf8d342eb2385195dfa093df7dd8ff4e5d53d2ab10f9c24a965f4d1"
+ },
+ "results/vra/origin_airport_cancellation_rates.csv": {
+  "bytes": 8031,
+  "sha256": "08e43794859926cb0e28c44bfe0e2409d2c9084a16737179b5d030b36fce35e8"
+ },
+ "results/vra/post_cutoff_sensitivity.csv": {
+  "bytes": 543,
+  "sha256": "09c7c5b546c60c64d7ee2dfcfa3990ec195c55fd8cd2a015dafb964272fc4678"
+ },
+ "results/vra/ranking_capture_curves.csv": {
+  "bytes": 74783,
+  "sha256": "9c78ff41927494d74576ea396f6ed6a8ddc897a6255bdbc360e6bf02e7f24885"
+ },
+ "results/vra/rate_cell_cluster_profiles.csv": {
+  "bytes": 1234,
+  "sha256": "743b0d1852666d04a017ac9a15df208855e1c97f715cc82a1ed852bb3f827db4"
+ },
+ "results/vra/rate_cell_cluster_silhouette.csv": {
+  "bytes": 182,
+  "sha256": "d77ca14a18d97f2db47403989f5034486f70712fda29eb4afbca6cbcd876e9f0"
+ },
+ "results/vra/robustness/annual_watchlist_lift_by_quarter.csv": {
+  "bytes": 6913,
+  "sha256": "fea7f90393d636e9495ba4b87b09b058c9b59e265191effb1fbcfa3784e805ba"
+ },
+ "results/vra/robustness/baseline_out_of_sample_extended.csv": {
+  "bytes": 6535,
+  "sha256": "be3ef7486185b9c43e341d87bacff343b62d2864595c2063048ba743d6661ee2"
+ },
+ "results/vra/robustness/bootstrap_brazil.csv": {
+  "bytes": 6247,
+  "sha256": "ef0f165aaee29a142252dfbfdb4487f02a194d2878bd5d495f1c12422f2bf73f"
+ },
+ "results/vra/robustness/bootstrap_us.csv": {
+  "bytes": 2699,
+  "sha256": "f9c8dd2f4dfcb7368d7b4f631a0641c4c1a878cb506e7431ffa1895c46c9efbf"
+ },
+ "results/vra/robustness/carrier_reference.csv": {
+  "bytes": 12222,
+  "sha256": "cf9c2cb9f20feec9024cffbd75452e0d1c3626b186043ad7b0c4e082995e8c82"
+ },
+ "results/vra/robustness/cell_sparsity.csv": {
+  "bytes": 7584,
+  "sha256": "81d3bdf6c803c0614fffadec2d62d3773a90f88dc226ccadbf80402d5df9564b"
+ },
+ "results/vra/robustness/domestic_passenger_carrier_rates.csv": {
+  "bytes": 645,
+  "sha256": "9d38ea793dbaebf9ea2f72f794039b510c0908e7f6f801053bd1ae78fc5440d4"
+ },
+ "results/vra/robustness/domestic_passenger_phase_segments.csv": {
+  "bytes": 1200,
+  "sha256": "0ba29cc2ef39640f4e8fd0270e71327ae959c50e591a777de3bce9e448efe52b"
+ },
+ "results/vra/robustness/domestic_passenger_yearly.csv": {
+  "bytes": 417,
+  "sha256": "7bf0fdefd82b2315711889f9f16e4a2ff9df3337345f5ec22193fafb66623ab3"
+ },
+ "results/vra/robustness/encoding_overlap_by_year.csv": {
+  "bytes": 581,
+  "sha256": "6de1f6980d923bea850e8dacaef99aef8688e055fda389008a628bf906661c61"
+ },
+ "results/vra/robustness/low_frequency_options.csv": {
+  "bytes": 1735,
+  "sha256": "6eb68377c6f81e150486b70c14a6ee7f733e7ff1971c4f5506fa3f8fa43b892a"
+ },
+ "results/vra/robustness/main_groups_share_flagged.csv": {
+  "bytes": 354,
+  "sha256": "3256f8eb2dd50233e61e43e2b2ca0082411ac32b88dbcef456cd6970851a14ff"
+ },
+ "results/vra/robustness/membership_stability.csv": {
+  "bytes": 2376,
+  "sha256": "c2fe498a221062087660defbeeaefc1d60a9da906164dcc8fb3571d34aaedef7"
+ },
+ "results/vra/robustness/minimum_exposure_exclusions.csv": {
+  "bytes": 8132,
+  "sha256": "e668cef7a35eb6b9195eb517563e22f85f6856589672a0b52ce25d3cb1cd3979"
+ },
+ "results/vra/robustness/operational_workload.csv": {
+  "bytes": 4356,
+  "sha256": "f15a1163eb2a8374835adc489a9ec8990ac3841d2e6390a05a372f6bc8feb6d7"
+ },
+ "results/vra/robustness/others_by_year.csv": {
+  "bytes": 246,
+  "sha256": "a5ca0c9996c193c6f1a2dc7008ce36a9f565edfd9ffa02c4eb616f58de72f094"
+ },
+ "results/vra/robustness/others_carriers_pandemic.csv": {
+  "bytes": 3844,
+  "sha256": "534d153854caa0c29a1661872836131921b194c3ec2c9146d702943ac8f62b4d"
+ },
+ "results/vra/robustness/others_carriers_post_pandemic.csv": {
+  "bytes": 3120,
+  "sha256": "6bee3da131ba64512eb4426c01810463492089e8a4a7ec4e1da62262c9470fa8"
+ },
+ "results/vra/robustness/others_carriers_pre_pandemic.csv": {
+  "bytes": 3680,
+  "sha256": "fe6b2567ce802342afc0320cf60188a01788d3ba3faa9a661076ef99e93a82b7"
+ },
+ "results/vra/robustness/others_composition_by_phase.csv": {
+  "bytes": 2016,
+  "sha256": "bb7dc817c81f0ab2dc70e1556cc9580028f4a5e53b24ff930aef97ced5ba4f3f"
+ },
+ "results/vra/robustness/reason_codes_by_year.csv": {
+  "bytes": 362,
+  "sha256": "815b5a556aca4dfd156ccadcde80b6a2638fe22ac9165fb852c55864e3ac394b"
+ },
+ "results/vra/robustness/reason_codes_concentration.csv": {
+  "bytes": 115,
+  "sha256": "a43f05611c23eb1024981169e470b332ee9eb92e60fdf1543295ad56db5e2264"
+ },
+ "results/vra/robustness/reason_codes_overall.csv": {
+  "bytes": 935,
+  "sha256": "0ca7ace760131e8d90778af840d1c126059f4ce9dbfc5fb90900fae66488c0de"
+ },
+ "results/vra/robustness/reason_groups_by_year.csv": {
+  "bytes": 1549,
+  "sha256": "48a3c67ee093febff93b626e8080bc230b5ee6da76ac95e29d8db17c4224eb64"
+ },
+ "results/vra/robustness/reason_groups_watchlist.csv": {
+  "bytes": 3657,
+  "sha256": "2882c942e4ac9c41bedd97ff927f6d08ca46b313773aba29de97c7e569a28688"
+ },
+ "results/vra/robustness/regime_out_of_sample.csv": {
+  "bytes": 3751,
+  "sha256": "a7107976229b502e3d775a2d61a692efdd9716a2ff744f1287f2278dc178bcad"
+ },
+ "results/vra/robustness/regime_segments.csv": {
+  "bytes": 2147,
+  "sha256": "3e9ba415d39be2ca5840492b5850282672a30e411979f47325558437a830842d"
+ },
+ "results/vra/robustness/registry_monthly.csv": {
+  "bytes": 14753,
+  "sha256": "13bb01260c2ac021f8c0c49d28fedbacf55725dc96e5b72a6b477d7a9db893b6"
+ },
+ "results/vra/robustness/registry_regime_summary.csv": {
+  "bytes": 952,
+  "sha256": "e87b08edc1e06bda0ea0a8f1719fe8ff2866f5d1e5ba35e8b60990605bc24335"
+ },
+ "results/vra/robustness/registry_scope_di_by_year.csv": {
+  "bytes": 589,
+  "sha256": "501ff8338934d2bfda2aa34b48a16b47047eaba478766f8e9a1ac178e3246acb"
+ },
+ "results/vra/robustness/registry_scope_status_by_year.csv": {
+  "bytes": 262,
+  "sha256": "9e61138301417e1a90abb046ced8f65bdb5f6ce1e815d2b767d6a4dee78c9b25"
+ },
+ "results/vra/robustness/registry_scope_summary.csv": {
+  "bytes": 674,
+  "sha256": "a53045e8cd4c0e7f7fc60a6b04c0d2dcd7beb0da1f5994b7a5a696e65f9a2836"
+ },
+ "results/vra/robustness/registry_yearly_scope.csv": {
+  "bytes": 354,
+  "sha256": "8ded31543976b58ae5b4a46b31a2a19b5f4c37ceecb924e944d4c5200a56db18"
+ },
+ "results/vra/robustness/rule_based_k_by_year.csv": {
+  "bytes": 294,
+  "sha256": "cfa6c035f364a88bceb991260520e2b7218b3bbac08ca63ae574bc69e60689ce"
+ },
+ "results/vra/robustness/sensitivity_out_of_sample_pairs.csv": {
+  "bytes": 151277,
+  "sha256": "b72b844e115558a31d701e5d80e13c2e69ea328af0491db206f2524d49676a2f"
+ },
+ "results/vra/robustness/sensitivity_out_of_sample_summary.csv": {
+  "bytes": 17600,
+  "sha256": "e7bfff611c34fda2694d25a0de00ec6a46c9003a14d18fb11c6a2cda6d585c54"
+ },
+ "results/vra/robustness/top_decile_composition.csv": {
+  "bytes": 1503,
+  "sha256": "7ee47af25c33481867dd459f937d81d81ed934ccca1dd669ce00b0d538823ef7"
+ },
+ "results/vra/robustness/watchlist_composition_by_operator.csv": {
+  "bytes": 16471,
+  "sha256": "cb6f2a3a8a3302a77d1017df33c05ee51b6771c0141d64a3c9a82c83f9552009"
+ },
+ "results/vra/robustness/yearly_watchlist_composition.csv": {
+  "bytes": 2152,
+  "sha256": "c4e0f5c176fd7c5a29d3fcd6d4de3b27b82c6ebe3ed43de8cd64ca0bf39af12f"
+ },
+ "results/vra/scheduled_dates_restored_by_file.csv": {
+  "bytes": 2488,
+  "sha256": "7803a1bcbf8a31cc53ea09ed902d0b438612cdb0ea1c9d80bbeb348a37791ec4"
+ },
+ "results/vra/selected_main_airports.csv": {
+  "bytes": 152,
+  "sha256": "36bbbd0db620164d2db2e5ac4b4be94d59afbd12e095bd7a63b1730ab822620d"
+ },
+ "results/vra/silhouette_freq.csv": {
+  "bytes": 1112,
+  "sha256": "615fe4fc9ec2ecf1d238eaa6ae31ee2dc70b7dd86ec2c278513e0fc7974bf2aa"
+ },
+ "results/vra/silhouette_manip1.csv": {
+  "bytes": 1160,
+  "sha256": "af7f4a30c4545d178489c115c45250096cbbeee0ded10b73317c3890ae770507"
+ },
+ "results/vra/silhouette_manip2.csv": {
+  "bytes": 1162,
+  "sha256": "c2b7b32f79b0065464aaeda31986646e738d351150c2ea687c240edb296debf3"
+ },
+ "results/vra/silhouette_manip3.csv": {
+  "bytes": 1161,
+  "sha256": "4ace5da4d09bc20d4e7bb8a1d56c0372c4b4a9f280b4150146437f9315e24fa4"
+ },
+ "results/vra/silhouette_onehot.csv": {
+  "bytes": 1170,
+  "sha256": "93d8cb08aa54e735c9be84f1cb7d8ce978ed4951ae23176edf532fabf7ac495a"
+ },
+ "results/vra/status_by_year.csv": {
+  "bytes": 475,
+  "sha256": "9d26a14c1ed5d788b21c66a17e8ad8a9113e374d9333f67d4c32e72fdc9a34d8"
+ },
+ "results/vra/time_representation_sensitivity.csv": {
+  "bytes": 480,
+  "sha256": "cf2c199261de25a1980fb4cbb8adfdce0a9aa0e3685c2b72f370571680db8062"
+ },
+ "results/vra/unmapped_cancellation_texts.csv": {
+  "bytes": 24,
+  "sha256": "22766c1ba3ea26de343d4b78408e22853dda58b497470d04cccc9bcf92699086"
+ },
+ "results/vra/vra_summary.csv": {
+  "bytes": 189,
+  "sha256": "691165ed4024d68fb67de2938935224e8dd5e99e4651514c3b131959e9153500"
+ },
+ "results/vra/watchlist_k_exposure_sensitivity.csv": {
+  "bytes": 2387,
+  "sha256": "a086bd922fa15572e97520b64c1f78dc4a789a0ed51d97417c288468d6af79dd"
+ },
+ "results/vra/watchlist_out_of_sample_clusters.csv": {
+  "bytes": 1401,
+  "sha256": "593568cbb7fdc3269387b9bd0319573aea5ca9a8aad78a329daad7ddebede6ab"
+ },
+ "results/vra/watchlist_out_of_sample_summary.csv": {
+  "bytes": 6515,
+  "sha256": "13e61c5b42c5b8fe383ba5c69ec57e932ffd927d3c2e1be20276434dcded1db8"
+ },
+ "results/vra/watchlist_policy_accounting.csv": {
+  "bytes": 638,
+  "sha256": "134e0d33b27c6a113c87677eba0a4146ab80410c648a7017db1ab2ba8f79f74c"
+ },
+ "figures/figure02.pdf": {
+  "bytes": 36140,
+  "sha256": "7e588ced8e73b81a6368913fdb2929ac0ab35b4af1950f54a3ecc6f1bbe29fd4"
+ },
+ "figures/figure03.pdf": {
+  "bytes": 14454,
+  "sha256": "b4deed15bedcd8f2ebd3944b431abe9d4c9eb4afb974a87b47d12404d9fdbe72"
+ },
+ "figures/figure07.pdf": {
+  "bytes": 14262,
+  "sha256": "fb20c0779b503b157cabfdb0de75f0a11f6ed36523f3708882829b737c817aec"
+ },
+ "figures/figure08.pdf": {
+  "bytes": 14716,
+  "sha256": "bdb6d9d866d9cb7c58b6a28762a138e5296422b0e772e6e209448dd701b929be"
+ },
+ "figures/figure09.pdf": {
+  "bytes": 11478,
+  "sha256": "67953834649c2534a156921729e4cce5adc604933965345dfdb8235b253756c5"
+ },
+ "figures/figure22.pdf": {
+  "bytes": 20215,
+  "sha256": "ca6a6ded00d054a9634ff03691b5b4b575f9c7c971a8a0b44bec945fbc1a07f6"
+ },
+ "figures/figure24.pdf": {
+  "bytes": 16364,
+  "sha256": "7fba333a032846d1737087a4cd645c056d704625b81de48fe1507d00f935cbb8"
+ },
+ "figures/figure26.pdf": {
+  "bytes": 14782,
+  "sha256": "a13954da9adb22ce7a7823815fd19301bbbffe77f92de5009daabbc57f31ccac"
+ },
+ "figures/figure29a.pdf": {
+  "bytes": 16123,
+  "sha256": "796c3089937a4b402eb33c52ac9fdb29a62b35ffef8838edcc6f18ed0a76e205"
+ },
+ "figures/figure29b.pdf": {
+  "bytes": 14024,
+  "sha256": "246613a79db21d45f022fbf8f1965c0b0274d1009ff57b74446e31bb5a4739ec"
+ },
+ "figures/figure29c.pdf": {
+  "bytes": 13838,
+  "sha256": "cf49379fcb1e201a3e115345ae6911c08129efa8190c3d457a0dd1bef4e5283a"
+ },
+ "figures/figure29d.pdf": {
+  "bytes": 12961,
+  "sha256": "09c43406e6682c8511dbd69496ddef9a0f42d7a81d6af843c349bdeeb955e0ae"
+ },
+ "figures/figure30a.pdf": {
+  "bytes": 15482,
+  "sha256": "0e6afcf31f8a9ee1a37a18a881aa886e05d9a9e698bc25067514c8a93419fd72"
+ },
+ "figures/figure30b.pdf": {
+  "bytes": 26419,
+  "sha256": "b51abedb3d9da8b89c1ad4f45eebc41e0afd1841dc736addbea1fee70e19d552"
+ },
+ "figures/figure31a.pdf": {
+  "bytes": 12445,
+  "sha256": "a54ef7207a3e913cf55ce902c6b38c38f8d9fe476c8a2bbb9a9f5a864dac623f"
+ },
+ "figures/figure31b.pdf": {
+  "bytes": 12455,
+  "sha256": "181a80d4f4d95edc4fdc511bf8c27e0adb25ad2f4b3d2f4dd2d4fb9ccc281e1d"
+ },
+ "figures/figure32.pdf": {
+  "bytes": 29800,
+  "sha256": "1dbc633910ce77d90e6a699e46d4f342fdca2fcb1daf195db3b029af02ab3235"
+ },
+ "reference/airport_timezones.csv": {
+  "bytes": 1023819,
+  "sha256": "c814bfecfedddd6cf7be31c3884e8f1ecc659a5a232b62a030b7a64f0a93d931"
+ },
+ "reference/airport_timezones_manifest.json": {
+  "bytes": 578,
+  "sha256": "7ca86061872faacca9fe90211f92015bf9b74546a2b05971171d722d9db5278f"
+ },
+ "reference/brazilian_aerodromes.csv": {
+  "bytes": 6767,
+  "sha256": "b13e8c9b909153fa10f3e4d5394c0b912e9efcda623d8214dde285980978391e"
+ },
+ "reference/rotaer_timezones.csv": {
+  "bytes": 454122,
+  "sha256": "ce520978b867b4e54a1d6dcf77c6ca2399bd986282b6e5b8a4eb6dec3c2ef460"
+ }
+}

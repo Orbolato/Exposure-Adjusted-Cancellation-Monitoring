@@ -1,0 +1,11 @@
+year,cells,gap_rule_met,Gap statistic,Calinski-Harabasz,Silhouette
+2015,470,True,2,3,10
+2016,399,True,3,10,10
+2017,377,True,2,6,10
+2018,380,True,3,7,10
+2019,342,True,4,10,10
+2020,184,True,7,5,9
+2021,234,True,5,5,8
+2022,303,False,10,10,10
+2023,334,False,10,4,10
+2024,349,False,10,4,8

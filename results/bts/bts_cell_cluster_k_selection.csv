@@ -1,0 +1,4 @@
+period,year,best_silhouette_k,best_calinski_k,best_davies_bouldin_k,gap_criterion_k,best_gmm_bic_k
+Pre-pandemic,2019,10,4,10,2,10
+Pandemic,2021,10,3,10,2,10
+Post-pandemic,2024,9,3,10,2,10

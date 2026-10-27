@@ -1,0 +1,13 @@
+period,cluster,cancellations,share,dominant_airline_group,dominant_day_type,dominant_day_of_week,mean_departure_hour
+Overall,1,162205,0.36936294825434707,Azul,Weekday,Friday,17.8310970685244
+Overall,2,171911,0.3914648364560467,Azul,Weekday,Tuesday,9.892316469956352
+Overall,3,105032,0.23917221528960625,Gol,Weekend,Saturday,13.779558769390919
+Pandemic,1,20252,0.40587610477583824,Others,Weekday,Tuesday,17.251785831851997
+Pandemic,2,11043,0.22131591077619897,Others,Weekend,Saturday,13.252331793896586
+Pandemic,3,18602,0.3728079844479628,Azul,Weekday,Wednesday,9.544936924345052
+Post-pandemic,1,14386,0.36281556581170715,Others,Weekday,Friday,16.852738773807868
+Post-pandemic,2,16206,0.4087160475145646,Others,Weekday,Monday,9.855583323049077
+Post-pandemic,3,9059,0.2284683866737283,Others,Weekend,Sunday,13.191034698458255
+Pre-pandemic,1,127274,0.36405606407322655,Gol,Weekday,Friday,18.046593438827518
+Pre-pandemic,2,137396,0.3930091533180778,Azul,Weekday,Tuesday,9.948818136384368
+Pre-pandemic,3,84930,0.24293478260869567,Gol,Weekend,Saturday,13.910885827544254

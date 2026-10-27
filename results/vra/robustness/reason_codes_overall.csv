@@ -1,0 +1,12 @@
+reason_code,cancellations,share_pct,label,group
+XN,204542,47.584727624648714,Technical or operational reasons,Technical or operational
+XB,165291,38.45336025757942,Authorized,Administrative or commercial
+XT,16591,3.8597364649829706,Destination airport below limits,Weather
+XO,11623,2.7039790809774615,Origin airport below limits,Weather
+XL,10301,2.396428504959893,No booked passengers (regional lines),Administrative or commercial
+XA,8758,2.037464406022594,Scheduled - national holiday,Administrative or commercial
+XJ,4509,1.0489754517876086,Destination airport closed,Airport closure
+XI,4416,1.0273398968937857,Origin airport closed,Airport closure
+XS,2751,0.6399936721817945,"Aircraft connection - outbound cancelled, weather",Weather
+XM,1062,0.24706407846494574,"Aircraft connection - outbound cancelled, airport closed",Airport closure
+XR,4,0.0009305615008095886,Code-share flight cancelled,Administrative or commercial

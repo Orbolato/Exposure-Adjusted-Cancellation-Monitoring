@@ -1,0 +1,5 @@
+period,sample_rows,matching_dissimilarity_cost,mean_mismatches_per_record
+Overall,30000,65974.0,2.199133333333333
+Pre-pandemic,30000,67855.0,2.261833333333333
+Pandemic,30000,64810.0,2.1603333333333334
+Post-pandemic,30000,62179.0,2.0726333333333335

@@ -1,0 +1,13 @@
+step,records
+Records in the 122 SIROS monthly files (Dec 2014 to Jan 2025),9703890
+Records for 25-31 March 2018 taken from the legacy file (absent from SIROS),18289
+Exact duplicates removed,1295
+Scheduled dates restored from the reference date,19096
+Additional outcome records for the same planned leg (dropped),770
+Records without usable scheduled departure,313363
+Planned legs scheduled in 2015-2024,9212435
+Brazilian-origin planned legs,8358856
+  of which non-regular DI (excluded),94588
+  of which regular with status not informed (excluded),1409
+Analysis population: Brazilian-origin regular legs with a final status,8262859
+  cancelled,543899

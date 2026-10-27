@@ -1,0 +1,32 @@
+Baseline (year-$t$ carrier groups, origin, day type, six-hour period; min.\ 500) & 76.9 & 64.7 & 2.23 & 2.83 & -- & 1.08 & 3.50 & 7.6 & 3.2 & -- \\
+\multicolumn{11}{l}{\textit{Population and data construction}} \\
+Matched panel (cells with $\geq$500 flights in both years) & 76.9 & 61.6 & 2.18 & 2.83 & 0.93 & 1.08 & 3.52 & 7.5 & 3.5 & 0.94 \\
+Carrier groups fixed from 2015--2024 shares & 77.4 & 65.5 & 2.22 & 2.83 & 1.00 & 1.15 & 3.50 & 7.6 & 3.2 & 1.00 \\
+Brasilia clock instead of origin-local time & 77.1 & 64.7 & 2.24 & 2.83 & 0.97 & 1.08 & 3.50 & 7.6 & 3.2 & 1.00 \\
+Legs with restored scheduled dates excluded & 76.9 & 64.8 & 2.23 & 2.80 & 0.99 & 1.08 & 3.49 & 7.6 & 3.3 & 1.00 \\
+\multicolumn{11}{l}{\textit{Seasonality}} \\
+Quarter added; min.\ 500 & 50.2 & 38.2 & 1.17 & 1.99 & 0.20 & 1.11 & 1.75 & 24.0 & $-3.1$ & 0.21 \\
+Quarter added; min.\ 125 & 78.7 & 64.6 & 1.57 & 2.49 & 0.48 & 1.16 & 2.65 & 13.6 & $-2.4$ & 0.61 \\
+\multicolumn{11}{l}{\textit{Destination and route}} \\
+Destination replaces origin & 73.4 & 59.5 & 1.97 & 2.52 & 0.11 & 1.05 & 3.73 & 4.6 & 0.4 & 0.26 \\
+Origin--destination added; min.\ 500 & 17.6 & 14.8 & 2.18 & 1.63 & 0.06 & 1.05 & 1.48 & 16.9 & $-4.9$ & 0.04 \\
+Origin--destination added; min.\ 200 & 59.1 & 44.3 & 2.40 & 2.54 & 0.15 & 1.04 & 1.12 & 30.8 & $-15.8$ & 0.06 \\
+\multicolumn{11}{l}{\textit{Service scope}} \\
+Domestic flights only & 75.7 & 60.7 & 2.03 & 2.33 & 0.41 & 1.07 & 3.70 & 7.3 & 0.5 & 0.26 \\
+Domestic passenger flights only & 75.9 & 61.8 & 1.97 & 2.17 & 0.25 & 1.25 & 5.65 & 5.8 & 0.4 & 0.11 \\
+\multicolumn{11}{l}{\textit{Carrier grouping}} \\
+Carriers with $\geq$1\% of year-$t$ flights retained & 76.1 & 62.3 & 2.23 & 2.60 & 0.73 & 1.09 & 3.46 & 6.6 & 3.1 & 0.76 \\
+Carriers with $\geq$2.5\% of year-$t$ flights retained & 76.5 & 63.4 & 2.23 & 2.73 & 0.88 & 1.09 & 3.40 & 7.4 & 3.4 & 0.87 \\
+Carriers with $\geq$10\% of year-$t$ flights retained & 77.3 & 65.1 & 2.23 & 2.83 & 1.00 & 1.14 & 3.50 & 7.6 & 3.2 & 1.00 \\
+Others split into four operator categories & 75.6 & 59.8 & 2.10 & 2.40 & 0.65 & 1.08 & 3.23 & 6.0 & 2.7 & 0.68 \\
+Individual operating carriers & 72.4 & 54.2 & 1.95 & 1.86 & 0.35 & 1.07 & 2.33 & 11.3 & $-2.2$ & 0.15 \\
+\multicolumn{11}{l}{\textit{Departure windows}} \\
+Six-hour periods shifted by three hours & 76.3 & 64.6 & 2.15 & 2.89 & 0.54 & 1.07 & 3.47 & 8.1 & 3.4 & 0.75 \\
+Three-hour windows & 65.8 & 52.6 & 2.10 & 2.49 & 0.47 & 1.01 & 2.89 & 13.1 & 1.1 & 0.54 \\
+Two-hour windows & 58.4 & 44.4 & 2.07 & 2.39 & 0.34 & 1.04 & 2.78 & 13.5 & $-0.8$ & 0.44 \\
+\multicolumn{11}{l}{\textit{Segmentation choices}} \\
+$k$ chosen yearly by gap statistic & 76.9 & 64.7 & 2.23 & 2.83 & 1.00 & 1.04 & 4.77 & 4.1 & 1.9 & 0.54 \\
+$k$ chosen yearly by Calinski--Harabasz & 76.9 & 64.7 & 2.23 & 2.83 & 1.00 & 4.07 & 4.68 & 5.2 & 1.3 & 0.67 \\
+$k$ chosen yearly by Silhouette & 76.9 & 64.7 & 2.23 & 2.83 & 1.00 & 5.24 & 5.61 & 1.7 & 0.3 & 0.22 \\
+One-hot encoding of carrier and airport & 76.9 & 64.7 & 2.23 & 2.83 & 1.00 & 1.08 & 1.25 & 28.3 & $-15.0$ & 0.13 \\
+Rate and temporal features only & 76.9 & 64.7 & 2.23 & 2.83 & 1.00 & 1.08 & 1.21 & 28.1 & $-16.2$ & 0.12 \\

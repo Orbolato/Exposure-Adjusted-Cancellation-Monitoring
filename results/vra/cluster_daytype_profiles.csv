@@ -1,0 +1,13 @@
+period,cluster,day_type,cancellations
+Overall,1,Weekday,162205
+Overall,2,Weekday,171911
+Overall,3,Weekend,105032
+Pandemic,1,Weekday,20252
+Pandemic,2,Weekend,11043
+Pandemic,3,Weekday,18602
+Post-pandemic,1,Weekday,14386
+Post-pandemic,2,Weekday,16206
+Post-pandemic,3,Weekend,9059
+Pre-pandemic,1,Weekday,127274
+Pre-pandemic,2,Weekday,137396
+Pre-pandemic,3,Weekend,84930

@@ -1,0 +1,978 @@
+[
+ {
+  "file": "VRA_2014_12.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2014/VRA_2014_12.csv",
+  "bytes": 33699576,
+  "sha256": "17c4ab10b50bfb8ce82b65b45ea57baf7e36d7f2ab10d88eb8f1d4d112df0840",
+  "last_modified": "Thu, 17 Nov 2022 22:23:12 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2015_01.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2015/VRA_2015_01.csv",
+  "bytes": 33895023,
+  "sha256": "b4caae74a89b2368c1957ec71165bcfad3150bf362532c012a776172a6c89581",
+  "last_modified": "Thu, 17 Nov 2022 22:23:27 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2015_02.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2015/VRA_2015_02.csv",
+  "bytes": 30264944,
+  "sha256": "58455e706176ccce17356df2528fd0a6ed00aed22e4606978ed1bbd1c34d3bd5",
+  "last_modified": "Thu, 17 Nov 2022 22:23:45 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2015_03.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2015/VRA_2015_03.csv",
+  "bytes": 32788361,
+  "sha256": "384c4a7aab48d3dff614f2015278aca550c89977c0531b882a7ca0922146cb42",
+  "last_modified": "Thu, 17 Nov 2022 22:24:05 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2015_04.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2015/VRA_2015_04.csv",
+  "bytes": 31511487,
+  "sha256": "a58359b8d23846065f7e0965dc75cbfc4b259fceb7fc69b014f57a2f44a3bf83",
+  "last_modified": "Thu, 17 Nov 2022 22:24:23 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2015_05.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2015/VRA_2015_05.csv",
+  "bytes": 31985472,
+  "sha256": "b396981d2cb07c297bb68c5258ed7f0d74e409d0b84e5d308d0c8274ff84803d",
+  "last_modified": "Thu, 17 Nov 2022 22:24:42 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2015_06.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2015/VRA_2015_06.csv",
+  "bytes": 31477420,
+  "sha256": "f8a7e7bd3e38751a74b9b6994def25a03a2c15e587e6cf246851b876249adf20",
+  "last_modified": "Thu, 17 Nov 2022 22:25:02 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2015_07.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2015/VRA_2015_07.csv",
+  "bytes": 33507511,
+  "sha256": "bba0f525cfc94f70c3c119b54d7e1a68ce9a4ba74d6ffc2112290d55edec6648",
+  "last_modified": "Thu, 17 Nov 2022 22:25:17 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2015_08.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2015/VRA_2015_08.csv",
+  "bytes": 32112414,
+  "sha256": "59dd04fdb6c1d682842ab15df8f2b046bef871f08c3705996e611545cedea4de",
+  "last_modified": "Thu, 17 Nov 2022 22:25:42 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2015_09.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2015/VRA_2015_09.csv",
+  "bytes": 31934554,
+  "sha256": "befa13c3672330fdb18e904b776a3a00692587a777a8ae2c562b8890911395e7",
+  "last_modified": "Thu, 17 Nov 2022 22:26:02 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2015_10.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2015/VRA_2015_10.csv",
+  "bytes": 29896265,
+  "sha256": "3105aa5aaa9cd2ed5a60f5cf5ee4634cb65645f5fcdeb121db302b4b1039d0d5",
+  "last_modified": "Thu, 17 Nov 2022 22:26:25 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2015_11.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2015/VRA_2015_11.csv",
+  "bytes": 28727298,
+  "sha256": "20dd722d55ad3cf34ab5e5b976e9b763f5622891465d3a62c7589014c27d5862",
+  "last_modified": "Thu, 17 Nov 2022 22:26:46 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2015_12.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2015/VRA_2015_12.csv",
+  "bytes": 30562770,
+  "sha256": "2cfa00bfa8f4da034775ab6f292d941d99f2aa3733282e6c56a7cf921a671504",
+  "last_modified": "Thu, 17 Nov 2022 22:27:12 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2016_01.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2016/VRA_2016_01.csv",
+  "bytes": 31841979,
+  "sha256": "481798cf9d5ffef84f6c508327b00f263594d40316b787e83406bdf6fa0010f3",
+  "last_modified": "Thu, 17 Nov 2022 22:27:34 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2016_02.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2016/VRA_2016_02.csv",
+  "bytes": 30507951,
+  "sha256": "691be2e2afde06597be08d79998cda4bde158eb104ce7cf5bb3d25e717d29de8",
+  "last_modified": "Thu, 17 Nov 2022 22:27:56 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2016_03.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2016/VRA_2016_03.csv",
+  "bytes": 28892897,
+  "sha256": "cd933be81e83bd38773d83de8db01463607a4c8506d7bd4b3c6532c4fa219262",
+  "last_modified": "Thu, 17 Nov 2022 22:28:17 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2016_04.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2016/VRA_2016_04.csv",
+  "bytes": 27131047,
+  "sha256": "1a5d5b7fba5ed826a9ad6f2bd357523fc6105d3b9b1ca1201b7db70b0b6d05e4",
+  "last_modified": "Thu, 17 Nov 2022 22:28:28 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2016_05.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2016/VRA_2016_05.csv",
+  "bytes": 24854251,
+  "sha256": "9d6644dfbbf3bef4164e3c77d58f0f3413f282c38157dea29e808b996ee217e3",
+  "last_modified": "Thu, 17 Nov 2022 22:28:38 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2016_06.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2016/VRA_2016_06.csv",
+  "bytes": 24119343,
+  "sha256": "7b1d1fcbdc9e0a985d99ca260c67b3c06b8b3e8e3e7a3ecf6953d175ce30711e",
+  "last_modified": "Thu, 17 Nov 2022 22:28:49 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2016_07.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2016/VRA_2016_07.csv",
+  "bytes": 24895782,
+  "sha256": "c322ac8d13ac4cc7020f0f92e51dd590579d1bfe76b86c5d77e48dcff267a654",
+  "last_modified": "Thu, 17 Nov 2022 22:29:07 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2016_08.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2016/VRA_2016_08.csv",
+  "bytes": 24622578,
+  "sha256": "6d2ef1db7ed81bfe5094c341def6f6ccab5eb2c64c71c0a5dd83800c045e91c6",
+  "last_modified": "Thu, 17 Nov 2022 22:29:28 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2016_09.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2016/VRA_2016_09.csv",
+  "bytes": 23304920,
+  "sha256": "06e84a32e8ce09ee04037d88826cc84748b9f50aab0aba1e3970b82120b584a8",
+  "last_modified": "Thu, 17 Nov 2022 22:29:41 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2016_10.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2016/VRA_2016_10.csv",
+  "bytes": 23555164,
+  "sha256": "fb92869eb4ae6ed90dbabb11b07f1b5ccb42d315feaa7c54fe29b102a1d24817",
+  "last_modified": "Thu, 17 Nov 2022 22:29:54 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2016_11.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2016/VRA_2016_11.csv",
+  "bytes": 23678250,
+  "sha256": "ef5a27f1e8560b0d74af70fcf4f3e3f057e1e7644881a02806ac04dd0095c45b",
+  "last_modified": "Thu, 17 Nov 2022 22:30:03 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2016_12.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2016/VRA_2016_12.csv",
+  "bytes": 25736662,
+  "sha256": "6f155f85f3d1f8c73947f286f6cda047d0ed0309ab0190ea6ed5e5e4bb647bc0",
+  "last_modified": "Thu, 17 Nov 2022 22:30:12 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2017_01.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2017/VRA_2017_01.csv",
+  "bytes": 26566276,
+  "sha256": "9d05524f257b0114422ba0393e632985d9cf8544dc2c166c441a899031d47519",
+  "last_modified": "Thu, 17 Nov 2022 22:30:23 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2017_02.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2017/VRA_2017_02.csv",
+  "bytes": 22920277,
+  "sha256": "e5a1723ac76184177df404f018e62efe07b46e5a72a1896ee5accf06642e87c1",
+  "last_modified": "Thu, 17 Nov 2022 22:30:33 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2017_03.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2017/VRA_2017_03.csv",
+  "bytes": 24768805,
+  "sha256": "17575a978874a96085b91ee6724396143457e664dbf548dc0cf1c9bd4c5fa824",
+  "last_modified": "Thu, 17 Nov 2022 22:30:44 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2017_04.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2017/VRA_2017_04.csv",
+  "bytes": 23275489,
+  "sha256": "55a6944d8c23e394d0b0f8cef0bc325f6ca19ad29fda49097077f0f4e8d6e202",
+  "last_modified": "Thu, 17 Nov 2022 22:30:54 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2017_05.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2017/VRA_2017_05.csv",
+  "bytes": 24318337,
+  "sha256": "f16401718939f3af62a6e182de881ab738ef59f9c38abe2a4cbe52083ac050bf",
+  "last_modified": "Thu, 17 Nov 2022 22:31:06 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2017_06.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2017/VRA_2017_06.csv",
+  "bytes": 23407013,
+  "sha256": "e4e6665d3cb9b8953c16c59d21b0c718cdd1b6f7561ccfb481cf5b2ce9bd582f",
+  "last_modified": "Thu, 17 Nov 2022 22:31:16 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2017_07.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2017/VRA_2017_07.csv",
+  "bytes": 25934720,
+  "sha256": "571efa722ebdc3392eefca2ea11c5cebb3c3eb3c572da41b2febdbe3d3a5cfe3",
+  "last_modified": "Thu, 17 Nov 2022 22:31:33 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2017_08.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2017/VRA_2017_08.csv",
+  "bytes": 25101182,
+  "sha256": "b797b7d86b7bd033a4131bcf35f862c1b8489d3585769a8cee3d83bd37f8ee03",
+  "last_modified": "Thu, 17 Nov 2022 22:31:56 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2017_09.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2017/VRA_2017_09.csv",
+  "bytes": 24015532,
+  "sha256": "f3f7b1de1cbb0930d2a4ce664e5bf851941ead445599ab9b0c130da1de10032f",
+  "last_modified": "Thu, 17 Nov 2022 22:32:16 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2017_10.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2017/VRA_2017_10.csv",
+  "bytes": 25127962,
+  "sha256": "19cc75f123e481c9122cdcd46eb4076420fa651fe8799a7a1546e87032e243e8",
+  "last_modified": "Thu, 17 Nov 2022 22:32:32 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2017_11.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2017/VRA_2017_11.csv",
+  "bytes": 24776756,
+  "sha256": "11181d185b20ae436faf89bf7dc7b84e0b712097eff5b0bfb3b0f141494dfb68",
+  "last_modified": "Thu, 17 Nov 2022 22:32:41 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2017_12.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2017/VRA_2017_12.csv",
+  "bytes": 27027425,
+  "sha256": "1691a5f59cb441e5dd2e2217a0539ce9d16e7965d81ea0c68fbf7a64efa46a14",
+  "last_modified": "Thu, 17 Nov 2022 22:32:54 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2018_01.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2018/VRA_2018_01.csv",
+  "bytes": 28112862,
+  "sha256": "eaeb381be1ec8628f265180664435368c716f6dec164b9af477bc5b7d15e01dc",
+  "last_modified": "Thu, 17 Nov 2022 22:33:06 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2018_02.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2018/VRA_2018_02.csv",
+  "bytes": 24904791,
+  "sha256": "9226033048cf3064e6190ba3ac4ed1b124b8da1acbbab2af9274f8359fea130b",
+  "last_modified": "Thu, 17 Nov 2022 22:33:13 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2018_03.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2018/VRA_2018_03.csv",
+  "bytes": 21168533,
+  "sha256": "5541ccf5e866cf72b2ba0093c133c6ded1f03ffbf1e04c8f952fa9a7d23e8502",
+  "last_modified": "Thu, 17 Nov 2022 22:33:19 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2018_04.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2018/VRA_2018_04.csv",
+  "bytes": 23665737,
+  "sha256": "f6d00c7c1d8fdbe28b671b54f6a1c9393619c76bf2a7acbe356515316ac8af88",
+  "last_modified": "Thu, 17 Nov 2022 22:33:27 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2018_05.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2018/VRA_2018_05.csv",
+  "bytes": 24958224,
+  "sha256": "1e5003915802e9805eb96db63cdc121fb4e1614de16138c193be306917b70f50",
+  "last_modified": "Thu, 17 Nov 2022 22:33:39 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2018_06.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2018/VRA_2018_06.csv",
+  "bytes": 23998746,
+  "sha256": "6c232688de9146af14db21fa2bd8129900ae28c4b586d8fc99b002f8bb4d48ff",
+  "last_modified": "Thu, 17 Nov 2022 22:33:49 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2018_07.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2018/VRA_2018_07.csv",
+  "bytes": 27222856,
+  "sha256": "d443b0b78196324fce28b52bbcfd13b931f5da01f364668af8e91867bf3a652b",
+  "last_modified": "Thu, 17 Nov 2022 22:33:57 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2018_08.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2018/VRA_2018_08.csv",
+  "bytes": 25061727,
+  "sha256": "1728e6c60e6a2d9ad894cd2647bdf2b95cb07f51ea6ceec1e71d2a4593751da2",
+  "last_modified": "Thu, 17 Nov 2022 22:34:06 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2018_09.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2018/VRA_2018_09.csv",
+  "bytes": 23937501,
+  "sha256": "02a0a7cfca7bc75d099b23b7f5c22e274fcf50696c9be8b49d84e02a2dddf5a2",
+  "last_modified": "Thu, 17 Nov 2022 22:34:21 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2018_10.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2018/VRA_2018_10.csv",
+  "bytes": 24689234,
+  "sha256": "14655aca226b349286ba3cb4b3571579e76c94c19d8e3c078e2024cda8915dc9",
+  "last_modified": "Thu, 17 Nov 2022 22:34:29 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2018_11.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2018/VRA_2018_11.csv",
+  "bytes": 24037487,
+  "sha256": "89ab63c2f99d7dd07c25c39db4c18c0c9c3a4b749a49fc7a274205eae91eafac",
+  "last_modified": "Thu, 17 Nov 2022 22:34:37 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2018_12.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2018/VRA_2018_12.csv",
+  "bytes": 26695838,
+  "sha256": "c2332b3a7f2dbaef7916895814e873461f23119823c7f33bf37b7f77dde41d87",
+  "last_modified": "Thu, 17 Nov 2022 22:34:48 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2019_01.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2019/VRA_2019_01.csv",
+  "bytes": 27967420,
+  "sha256": "150e8a3556d6d1c4bfbca30407cfd24b0f0614aa38945fa802222e535287dffb",
+  "last_modified": "Thu, 17 Nov 2022 22:35:19 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2019_02.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2019/VRA_2019_02.csv",
+  "bytes": 24225151,
+  "sha256": "ed0088bd0f575d29532b112c18b842aebbde07b0fef31fcb9b1bddc805bb6558",
+  "last_modified": "Thu, 17 Nov 2022 22:35:37 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2019_03.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2019/VRA_2019_03.csv",
+  "bytes": 25320405,
+  "sha256": "b79e2187b8d374fc3e6172c59fb0cd552946134ff02bfc8fcb92a93c271a1453",
+  "last_modified": "Thu, 17 Nov 2022 22:35:54 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2019_04.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2019/VRA_2019_04.csv",
+  "bytes": 23505432,
+  "sha256": "f7655e8eb8bace235e925f342128aad742ea9488033979d1645396267e6800a4",
+  "last_modified": "Thu, 17 Nov 2022 22:36:17 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2019_05.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2019/VRA_2019_05.csv",
+  "bytes": 23050966,
+  "sha256": "f653080eca1474e9a659fca6da5f526d1026bd1bb574d6c97eeed2ebfe7cb4f8",
+  "last_modified": "Thu, 17 Nov 2022 22:36:36 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2019_06.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2019/VRA_2019_06.csv",
+  "bytes": 22547814,
+  "sha256": "9867d73e815e14cdafaf740990053f1abcc1353d3eee9158b281ac62e9161300",
+  "last_modified": "Thu, 17 Nov 2022 22:36:51 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2019_07.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2019/VRA_2019_07.csv",
+  "bytes": 26088621,
+  "sha256": "72f4e76ca4667c31ba7904ec6549509f8909b94ff2d20387322df4630f151c22",
+  "last_modified": "Thu, 17 Nov 2022 22:37:15 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2019_08.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2019/VRA_2019_08.csv",
+  "bytes": 24224712,
+  "sha256": "7d5698bf3848d43763b949d74e2e16b063269dca9283544641141c44a60f2240",
+  "last_modified": "Thu, 17 Nov 2022 22:37:31 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2019_09.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2019/VRA_2019_09.csv",
+  "bytes": 24650412,
+  "sha256": "258fc060336f9c9de061d443653093760b385247f45997ef817fdcd9947554c9",
+  "last_modified": "Thu, 17 Nov 2022 22:37:45 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2019_10.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2019/VRA_2019_10.csv",
+  "bytes": 25177451,
+  "sha256": "6febae9a95cd31694d2b182f9273273f144914178473d0feb3112a06cb884cea",
+  "last_modified": "Thu, 17 Nov 2022 22:38:05 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2019_11.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2019/VRA_2019_11.csv",
+  "bytes": 24229737,
+  "sha256": "ab1d297e18543d7ac39d4bc0b534e4913fda5e7dfde42d379553db87c6e2f488",
+  "last_modified": "Thu, 17 Nov 2022 22:38:19 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2019_12.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2019/VRA_2019_12.csv",
+  "bytes": 26474851,
+  "sha256": "95642e969317c2b26047d6e4be83d5d268315bfb3f9bc760f4c815e2de308b5e",
+  "last_modified": "Thu, 17 Nov 2022 22:38:39 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2020_01.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2020/VRA_2020_01.csv",
+  "bytes": 27455960,
+  "sha256": "c64acd1a13397c83861acf5693bf60aa5550acf1fbad08d643284b85f74a45d4",
+  "last_modified": "Thu, 17 Nov 2022 22:38:59 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2020_02.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2020/VRA_2020_02.csv",
+  "bytes": 24326067,
+  "sha256": "ba6a91885d1f1ded54cb46bb714d5a91b26294088a4f82dd30d5da28c9e0e520",
+  "last_modified": "Thu, 17 Nov 2022 22:39:15 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2020_03.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2020/VRA_2020_03.csv",
+  "bytes": 19232759,
+  "sha256": "e6fe0059e5d784bf7e551bf14aa3e551771c4450dd047c0dabdbeb1c8ec3829e",
+  "last_modified": "Thu, 17 Nov 2022 22:39:26 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2020_04.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2020/VRA_2020_04.csv",
+  "bytes": 2113562,
+  "sha256": "c76f5ea70b68896f06335eb54903e2b75cc57ee9b41b6e76cd5a10c2d0e3083f",
+  "last_modified": "Thu, 17 Nov 2022 22:39:28 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2020_05.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2020/VRA_2020_05.csv",
+  "bytes": 2643533,
+  "sha256": "20dfa011cb3423f92674baa629429dfb88b9950fa0a7c4186e79210f5b657fd2",
+  "last_modified": "Thu, 17 Nov 2022 22:39:30 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2020_06.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2020/VRA_2020_06.csv",
+  "bytes": 3578139,
+  "sha256": "d01012074bcb98932f85e0c8ef76e02a2b1c0fc4a52200624b0a3f5ad53262ef",
+  "last_modified": "Thu, 17 Nov 2022 22:39:31 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2020_07.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2020/VRA_2020_07.csv",
+  "bytes": 5632871,
+  "sha256": "883b2fc9da868733968ae13c03eb6da42834797b8acbfa50fae344dce64c8e5f",
+  "last_modified": "Thu, 17 Nov 2022 22:39:35 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2020_08.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2020/VRA_2020_08.csv",
+  "bytes": 7057047,
+  "sha256": "2c187990075bc37701abc3e1a0c4c0f6951cd928b1d34df0751f5c87a1b67251",
+  "last_modified": "Thu, 17 Nov 2022 22:39:39 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2020_09.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2020/VRA_2020_09.csv",
+  "bytes": 8737728,
+  "sha256": "f23a155467ca9424ce6f74cf0acf4182650293aff0fabd08edaa681b7bc600e1",
+  "last_modified": "Thu, 17 Nov 2022 22:39:45 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2020_10.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2020/VRA_2020_10.csv",
+  "bytes": 11539155,
+  "sha256": "d12483fe7b950ace85c012c68ded986a9b8281018eaea250dc94ffd685de59f7",
+  "last_modified": "Thu, 17 Nov 2022 22:39:57 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2020_11.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2020/VRA_2020_11.csv",
+  "bytes": 12858480,
+  "sha256": "63531448fcbf6d9b4263adeb837c43ce7bd2ecea1385a0c9e41fc5914403197c",
+  "last_modified": "Thu, 17 Nov 2022 22:40:08 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2020_12.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2020/VRA_2020_12.csv",
+  "bytes": 15386896,
+  "sha256": "882251d9e7ce71a003cc9039806cdc1948751d5651983604ed185253e0f7dcfa",
+  "last_modified": "Thu, 17 Nov 2022 22:40:18 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2021_01.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2021/VRA_2021_01.csv",
+  "bytes": 16995928,
+  "sha256": "cc94b587b5a8d336e37758f2187b4cfa2f476360c39bf8ba5c899212b375320e",
+  "last_modified": "Wed, 23 Jul 2025 17:27:14 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2021_02.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2021/VRA_2021_02.csv",
+  "bytes": 12687790,
+  "sha256": "ad6c074ffde8ac65c415acc21ec0083f90812b7a855eb66039d5899ef0f85612",
+  "last_modified": "Wed, 23 Jul 2025 17:33:16 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2021_03.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2021/VRA_2021_03.csv",
+  "bytes": 11479433,
+  "sha256": "916a0300912ad8c8c01f1cca16898d2fb2ad20554c1759967e85d36f797a03a6",
+  "last_modified": "Wed, 23 Jul 2025 17:39:10 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2021_04.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2021/VRA_2021_04.csv",
+  "bytes": 8455519,
+  "sha256": "a55b75cceb5e90fa8f8d8ed0b7910b8dfcb2c45f9ddddeecee68547758bd5bb0",
+  "last_modified": "Wed, 23 Jul 2025 17:42:08 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2021_05.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2021/VRA_2021_05.csv",
+  "bytes": 10464126,
+  "sha256": "49907e9546d02fd3cbbdcc5dc62bb8d64130ce91c03f05a1a1d468db0c43132b",
+  "last_modified": "Wed, 23 Jul 2025 17:45:10 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2021_06.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2021/VRA_2021_06.csv",
+  "bytes": 11928409,
+  "sha256": "babaf8882b29fa3b89a83df226af6385519fbe222ae3355952a708e172f93fb9",
+  "last_modified": "Wed, 23 Jul 2025 17:48:11 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2021_07.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2021/VRA_2021_07.csv",
+  "bytes": 15492231,
+  "sha256": "95574f5430edd9884af6b2a6f3b4095c3d010d11c01211bb0f6d695c1c8967f3",
+  "last_modified": "Wed, 23 Jul 2025 17:51:12 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2021_08.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2021/VRA_2021_08.csv",
+  "bytes": 15837098,
+  "sha256": "4dd71d230cbe058fde0a645fac3897fbd44a33cd61326ae88d5f90341fb7d59f",
+  "last_modified": "Wed, 23 Jul 2025 17:54:12 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2021_09.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2021/VRA_2021_09.csv",
+  "bytes": 16291838,
+  "sha256": "c153d912586b82ad98bd440a4b68a23ada2860e09d5df431d4aa98045dd6b8ac",
+  "last_modified": "Wed, 23 Jul 2025 17:57:12 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2021_10.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2021/VRA_2021_10.csv",
+  "bytes": 17231843,
+  "sha256": "eb18165d34365084e57c3f6a7f6cbbad9428f06c20f90616804b5e94946b3d2f",
+  "last_modified": "Wed, 23 Jul 2025 18:00:16 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2021_11.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2021/VRA_2021_11.csv",
+  "bytes": 18676959,
+  "sha256": "207de306da73478aeaa1203f6b7c81456dbbdf0697b4a147bb9076d6192a996f",
+  "last_modified": "Wed, 23 Jul 2025 18:06:14 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2021_12.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2021/VRA_2021_12.csv",
+  "bytes": 20909207,
+  "sha256": "4d5852eac3e7818a5d4a4153f0d3954df0d859128f657092cbb208b30e30a732",
+  "last_modified": "Thu, 28 Aug 2025 12:33:18 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2022_01.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2022/VRA_2022_01.csv",
+  "bytes": 20702678,
+  "sha256": "69891b064ebeab32e58ad8a91191bc6114c96a4865d1010b50afbaa7ede22d2a",
+  "last_modified": "Wed, 23 Jul 2025 18:18:16 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2022_02.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2022/VRA_2022_02.csv",
+  "bytes": 16440081,
+  "sha256": "b53833d3b24c515b4b33348e0854ea5b3b66809e3c9958d0ae02167a049a6683",
+  "last_modified": "Wed, 23 Jul 2025 18:24:15 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2022_03.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2022/VRA_2022_03.csv",
+  "bytes": 19065161,
+  "sha256": "ef7cd3c8c308d9c44360bd9a1c857c69f8efb2728d39c5fd2b5d3a2ef0fba4c4",
+  "last_modified": "Wed, 23 Jul 2025 18:30:21 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2022_04.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2022/VRA_2022_04.csv",
+  "bytes": 18428059,
+  "sha256": "426e555b9374c0446b68296157a1a8768f613c05fcad079a8f7026bb44b16d97",
+  "last_modified": "Wed, 23 Jul 2025 18:36:12 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2022_05.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2022/VRA_2022_05.csv",
+  "bytes": 20149698,
+  "sha256": "0d4cdf2c325108d44a479f24f7fe8e3be2d91f52f31ddf541d1b54df7b957134",
+  "last_modified": "Wed, 23 Jul 2025 18:42:17 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2022_06.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2022/VRA_2022_06.csv",
+  "bytes": 19121793,
+  "sha256": "e9db357d060c763f8ed4a153b859f1a7d8bffa252f1baf4a732b4221efc57bfe",
+  "last_modified": "Wed, 23 Jul 2025 18:48:14 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2022_07.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2022/VRA_2022_07.csv",
+  "bytes": 22074548,
+  "sha256": "e020fc2c71250a7a92a0ba253632bf7419c7925777b37e19045974ff84f8c8ee",
+  "last_modified": "Thu, 25 Sep 2025 19:24:18 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2022_08.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2022/VRA_2022_08.csv",
+  "bytes": 21178060,
+  "sha256": "2823cc2d2e262d91d2ffb88ad3da9f07c2895fe0f5bd778b075524edd0a40f3c",
+  "last_modified": "Thu, 25 Sep 2025 19:30:26 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2022_09.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2022/VRA_2022_09.csv",
+  "bytes": 20647758,
+  "sha256": "4e1787d9b340fe56868868a386fbad264020094107a657b57ee9eb996ed95079",
+  "last_modified": "Wed, 23 Jul 2025 19:06:31 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2022_10.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2022/VRA_2022_10.csv",
+  "bytes": 23151664,
+  "sha256": "97baf899713ea76934c03d77101d14e4c15f18a9e911ff6db0ad062968821cbc",
+  "last_modified": "Wed, 24 Jun 2026 18:05:51 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2022_11.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2022/VRA_2022_11.csv",
+  "bytes": 21840721,
+  "sha256": "84ebd3f4dafd154297ca1e97f35ab3663c1ef2364972bed175af4caaa87f026c",
+  "last_modified": "Wed, 23 Jul 2025 19:18:14 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2022_12.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2022/VRA_2022_12.csv",
+  "bytes": 23736292,
+  "sha256": "669e536977fdfcb9fc7af471efa5d1a30ad28908cb4f04543e832cf212d55338",
+  "last_modified": "Wed, 23 Jul 2025 19:24:20 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2023_01.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2023/VRA_2023_01.csv",
+  "bytes": 24567587,
+  "sha256": "52c1d70d778f6f1e86e6c1b590c53f6b4e554e4b599427b85c7aa0dc9567cf02",
+  "last_modified": "Thu, 28 Aug 2025 12:45:17 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2023_02.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2023/VRA_2023_02.csv",
+  "bytes": 20637126,
+  "sha256": "32944d41ff65ac6feeda283506db1aa2fce63ca83c0e63cd9e5a062df502a22c",
+  "last_modified": "Wed, 23 Jul 2025 19:33:14 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2023_03.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2023/VRA_2023_03.csv",
+  "bytes": 23043775,
+  "sha256": "fb9aec03ec543a990bb99e6f7b5446195cf422170afa0b12f8806ac6f3698998",
+  "last_modified": "Wed, 23 Jul 2025 19:36:16 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2023_04.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2023/VRA_2023_04.csv",
+  "bytes": 21702811,
+  "sha256": "2240b33bc9f9dde21216de5af2d78da3f0b9565124953dbce0b0317db22b0bfd",
+  "last_modified": "Wed, 23 Jul 2025 19:39:14 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2023_05.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2023/VRA_2023_05.csv",
+  "bytes": 24589388,
+  "sha256": "7b2b6cefa15795dd6c8e02d1479d4960c303ab28437c86b853f94933adf6fe7c",
+  "last_modified": "Wed, 24 Jun 2026 18:10:57 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2023_06.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2023/VRA_2023_06.csv",
+  "bytes": 22295209,
+  "sha256": "0cee6a880dd6a4d91b9683a850ef6fc0d7f4c295aa49cfeaaccd2c13b97491ca",
+  "last_modified": "Wed, 23 Jul 2025 19:48:14 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2023_07.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2023/VRA_2023_07.csv",
+  "bytes": 24487006,
+  "sha256": "71bf6dd164d46c2dabafcf807c90eabae87ee4fc6006834c4581c7c819054071",
+  "last_modified": "Wed, 23 Jul 2025 19:51:16 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2023_08.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2023/VRA_2023_08.csv",
+  "bytes": 23962431,
+  "sha256": "6111764c4d788d3b549f8437f2530d78f37292e89edd20d7b506e61336b1416f",
+  "last_modified": "Wed, 23 Jul 2025 19:54:16 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2023_09.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2023/VRA_2023_09.csv",
+  "bytes": 22632904,
+  "sha256": "5a8b4dd515ebb9ed4a1a789c4d2c2ebacc11e1744433dd97dba2feedd92d63fe",
+  "last_modified": "Wed, 23 Jul 2025 19:57:16 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2023_10.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2023/VRA_2023_10.csv",
+  "bytes": 23183624,
+  "sha256": "f8d100052ea2547efb768b6d121ecfff76dcc4c6576c72787b1c7b9db719988e",
+  "last_modified": "Wed, 23 Jul 2025 20:03:26 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2023_11.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2023/VRA_2023_11.csv",
+  "bytes": 22169958,
+  "sha256": "1df1f6fc1256987dee1588f5b7d546234e245b6e1dd409a567b0ea2d64c640a7",
+  "last_modified": "Wed, 23 Jul 2025 20:09:22 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2023_12.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2023/VRA_2023_12.csv",
+  "bytes": 25191940,
+  "sha256": "1226e9fb647772ef70404d5ec97bd410481ebf458adabbcbd43ef9bbd6c4fa0c",
+  "last_modified": "Wed, 24 Jun 2026 18:15:56 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2024_01.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2024/VRA_2024_01.csv",
+  "bytes": 26363293,
+  "sha256": "2ec4f590dd119cf150b80bd7f18821ce79e6cd6492525ec2a3db031427c4b2a0",
+  "last_modified": "Wed, 24 Jun 2026 18:20:52 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2024_02.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2024/VRA_2024_02.csv",
+  "bytes": 23447871,
+  "sha256": "0c009ae5fae08b6bcf5a39c45adc23dfb5aa8122afe1547d949249aef35a6885",
+  "last_modified": "Wed, 24 Jun 2026 18:25:49 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2024_03.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2024/VRA_2024_03.csv",
+  "bytes": 24822084,
+  "sha256": "bcc29fb0fd9d366fa71c3fe3e2398415e5be0057a44e3b8f4888f08d79fe1f58",
+  "last_modified": "Wed, 24 Jun 2026 18:31:06 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2024_04.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2024/VRA_2024_04.csv",
+  "bytes": 24575980,
+  "sha256": "782f0c63d36339c6116830be34a2f8875a50f3c4f864e2e28eecffdca1d12cae",
+  "last_modified": "Wed, 24 Jun 2026 18:35:50 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2024_05.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2024/VRA_2024_05.csv",
+  "bytes": 24042919,
+  "sha256": "430a271460ee48757de096554700351b86427eb568e06c1669af96909b94e4da",
+  "last_modified": "Wed, 24 Jun 2026 18:40:51 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2024_06.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2024/VRA_2024_06.csv",
+  "bytes": 23799106,
+  "sha256": "a8f580a59dde4428862800419ac8de6c73fbc9875cec81f3f3a35eaff2425bbe",
+  "last_modified": "Wed, 24 Jun 2026 18:45:44 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2024_07.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2024/VRA_2024_07.csv",
+  "bytes": 26920093,
+  "sha256": "d59e1a97918c3853eed8f9789f60a7cf6b946e73d0470571447b363815420227",
+  "last_modified": "Wed, 24 Jun 2026 18:50:52 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2024_08.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2024/VRA_2024_08.csv",
+  "bytes": 26160459,
+  "sha256": "47e862dc809aba5cd853e99adf509389c26e3ce66606bb93d7eef7a01da53754",
+  "last_modified": "Wed, 24 Jun 2026 18:55:51 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2024_09.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2024/VRA_2024_09.csv",
+  "bytes": 25039297,
+  "sha256": "891844db74cc8dd0ab565dee89819350d40fcae357dcb1946bc68a91c2065d26",
+  "last_modified": "Wed, 24 Jun 2026 19:00:58 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2024_10.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2024/VRA_2024_10.csv",
+  "bytes": 25832013,
+  "sha256": "0a9f6755e4bb85cad72cb05f5ec5361af5d52c6fbc7676ffb21efed3b4498f2d",
+  "last_modified": "Wed, 24 Jun 2026 19:05:45 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2024_11.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2024/VRA_2024_11.csv",
+  "bytes": 24588770,
+  "sha256": "37126f5a7edc84f3eccac10359784c75b2f812aafd113b13baa6a0bda2c951f0",
+  "last_modified": "Wed, 24 Jun 2026 19:10:45 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2024_12.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2024/VRA_2024_12.csv",
+  "bytes": 26444316,
+  "sha256": "61c45447c9c280f4d4e29985f7ee6c05f6abf253d03879e0cd378b643abadeaf",
+  "last_modified": "Wed, 24 Jun 2026 19:15:50 GMT",
+  "retrieved": "2026-09-23"
+ },
+ {
+  "file": "VRA_2025_01.csv",
+  "url": "https://siros.anac.gov.br/siros/registros/diversos/vra/2025/VRA_2025_01.csv",
+  "bytes": 27714618,
+  "sha256": "685f8befdb548cfa53d8dee0c6bf377c2791fd6ac1590748d6c0e486bc75f562",
+  "last_modified": "Wed, 24 Jun 2026 19:20:46 GMT",
+  "retrieved": "2026-09-23"
+ }
+]

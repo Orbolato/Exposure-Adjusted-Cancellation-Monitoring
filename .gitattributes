@@ -1,0 +1,13 @@
+* text=auto
+*.py text eol=lf
+*.sh text eol=lf
+*.ps1 text eol=crlf
+*.md text eol=lf
+*.cff text eol=lf
+*.yml text eol=lf
+*.tex text eol=lf
+# Archived results, reference tables and manifests are stored byte for byte, so that
+# their SHA-256 checksums are the same on every platform.
+*.csv -text
+*.json -text
+*.pdf binary
